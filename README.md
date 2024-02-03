@@ -41,7 +41,7 @@ Les recherches ont été possibles grâce à [pokeemerald](https://github.com/pr
 
 Spherical Ice est l'auteur originel de l'[Unown Report code](https://github.com/sphericalice/bpre-unown-report).
 
-BluRose a fork et a converti le système pour le [système de compialtion de CFRU](https://github.com/BluRosie/bpre-unown-report).
+BluRose a fork et a converti le système pour le [système de compilation de CFRU](https://github.com/BluRosie/bpre-unown-report).
 
 Skeli a créé le [build system used in the CFRU](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) qui est utilisé ici.
 
