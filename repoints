@@ -1,0 +1,8 @@
+## Un seul pointeur, cause aussi des problèmes si mis dans repointall.
+gNewBattleAnims_Moves 080725F4
+## Les fix pour les PPs
+gNewBattleMoves 0803E878 4
+gNewBattleMoves 08040DB8 4
+gNewBattleMoves 08011480 4
+gNewBattleMoves 08011630 4
+gNewBattleMoves 0803E7D0 4

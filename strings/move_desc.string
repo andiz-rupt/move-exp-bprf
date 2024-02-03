@@ -1,0 +1,2216 @@
+#org @MOVE_DESC_POUND
+Ecrase l'ennemi avec\nles pattes avant ou\nla queue.
+
+#org @MOVE_DESC_KARATECHOP
+L'ennemi est\ntranch\e violemment.\nTaux de critique\n\elev\e.
+
+#org @MOVE_DESC_DOUBLESLAP
+Gifle rapidement\nl'ennemi de deux \a\ncinq fois\ndcaffil\ee.
+
+#org @MOVE_DESC_COMETPUNCH
+Une tornade de\ncoups de poing qui\nfrappe de deux \a\ncinq fois\nd'affil\ee.
+
+#org @MOVE_DESC_MEGAPUNCH
+L'ennemi re\coit un\ncoup de poing d'une\npuissance\nincroyable.
+
+#org @MOVE_DESC_PAYDAY
+Des pi\rces sont\nlanc\ees sur\nl'ennemi. Permet\nd'obtenir de\nl'argent \a la fin.
+
+#org @MOVE_DESC_FIREPUNCH
+Un coup de poing\nenflamm\e vient\nfrapper l'ennemi.\nPeut le br\uler.
+
+#org @MOVE_DESC_ICEPUNCH
+Un coup de poing\nglac\e vient frapper\nl'ennemi. Peut le\ngeler.
+
+#org @MOVE_DESC_THUNDERPUNCH
+Un coup de poing\n\electrique vient\nfrapper l'ennemi.\nPeut le paralyser.
+
+#org @MOVE_DESC_SCRATCH
+Lac\rre l'ennemi avec\ndes griffes ac\er\ees\pour lui infliger\ndes d\eg\ots.
+
+#org @MOVE_DESC_VICEGRIP
+L'ennemi est attrap\e\net compress\e par les\nc\mt\es.
+
+#org @MOVE_DESC_GUILLOTINE
+Des pinces lac\rrent\nviolemment l'ennemi,\nle mettant K.O. s'il\nest touch\e.
+
+#org @MOVE_DESC_RAZORWIND
+Des lames de vent\nfrappent l'ennemi au\nsecond tour.Taux de\ncritique \elev\e.
+
+#org @MOVE_DESC_SWORDSDANCE
+Une danse de combat\nqui augmente\nbeaucoup l'Attaque\ndu lanceur.
+
+#org @MOVE_DESC_CUT
+Coupe l'ennemi avec\ndes lames, des\ngriffes, etc.
+
+#org @MOVE_DESC_GUST
+Envoie une rafale de\nvent en battant des\nailes.
+
+#org @MOVE_DESC_WINGATTACK
+Frappe l'ennemi en\nd\eployant les ailes.
+
+#org @MOVE_DESC_WHIRLWIND
+Envoie une rafale de\nvent et met fin au\ncombat.
+
+#org @MOVE_DESC_FLY
+S'envole au premier\ntour et frappe au\nsecond.
+
+#org @MOVE_DESC_BIND
+Ligote l'ennemi et\nl'\ecrase pendant 2 \a\n5 tours.
+
+#org @MOVE_DESC_SLAM
+Fouette l'ennemi\navec une queue, une\nliane, etc.
+
+#org @MOVE_DESC_VINEWHIP
+Fouette l'ennemi\navec de fines\nlianes.
+
+#org @MOVE_DESC_STOMP
+Ecrase avec un\n\enorme pied. Peut\napeurer l'ennemi.
+
+#org @MOVE_DESC_DOUBLEKICK
+Un double coup de\npied qui frappe\nl'ennemi deux fois.
+
+#org @MOVE_DESC_MEGAKICK
+Un coup de pied\nsuper puissant et\nintense.
+
+#org @MOVE_DESC_JUMPKICK
+Un coup de pied\nsaut\e. Peut blesser\nle lanceur si rat\e.
+
+#org @MOVE_DESC_ROLLINGKICK
+Un coup de pied\ntournoyant et\nextr\tmement rapide.
+
+#org @MOVE_DESC_SANDATTACK
+Lance du sable et\nbaisse la pr\ecision\nde l'ennemi.
+
+#org @MOVE_DESC_HEADBUTT
+Une charge qui peut\napeurer l'ennemi.
+
+#org @MOVE_DESC_HORNATTACK
+Frappe l'ennemi d'un\ncoup de corne\npointue.
+
+#org @MOVE_DESC_FURYATTACK
+Frappe l'ennemi 2 \a\n5 fois avec des\ncornes, etc.
+
+#org @MOVE_DESC_HORNDRILL
+Empale l'ennemi d'un\ncoup de corne. Met\nK.O. en un coup.
+
+#org @MOVE_DESC_TACKLE
+Le lanceur charge\nl'ennemi et le\npercute de tout\nson poids.
+
+#org @MOVE_DESC_BODYSLAM
+Charge l'ennemi et\npeut Le paralyser.
+
+#org @MOVE_DESC_WRAP
+Ligote l'ennemi et\nl'\etouffe 2 \a 5 fois\navec des lianes.
+
+#org @MOVE_DESC_TAKEDOWN
+Une charge violente\nqui blesse aussi le\nlanceur.
+
+#org @MOVE_DESC_THRASH
+Une attaque furieuse\nde 2 \a 3 tours.\nLanceur confus.
+
+#org @MOVE_DESC_DOUBLEEDGE
+Une dangereuse\ncharge qui blesse\naussi le lanceur.
+
+#org @MOVE_DESC_TAILWHIP
+Remue la queue pour\nbaisser la Defense\nde l'ennemi.
+
+#org @MOVE_DESC_POISONSTING
+Un dard toxique qui\ntransperce l'ennemi.\nPeut aussi\nl'empoisonner.
+
+#org @MOVE_DESC_TWINEEDLE
+Un double coup de\ndards qui transperce\nl'ennemi. Peut aussi\nl'empoisonner.
+
+#org @MOVE_DESC_PINMISSILE
+Envoie une rafale de\ndards. Peut toucher\nde 2 \a 5 fois.
+
+#org @MOVE_DESC_LEER
+Lance un regard noir\net baisse la\nDefense.
+
+#org @MOVE_DESC_BITE
+L'ennemi est mordu\npar de tranchantes\ncanines. Peut\nl'apeurer.
+
+#org @MOVE_DESC_GROWL
+Rugit gentiment et\nbaisse l'Attaque\nde l'ennemi.
+
+#org @MOVE_DESC_ROAR
+Fait fuir l'ennemi\npour mettre fin au\ncombat.
+
+#org @MOVE_DESC_SING
+Une berceuse plonge\nl'ennemi dans un\nprofond sommeil.
+
+#org @MOVE_DESC_SUPERSONIC
+Etranges ondes\nsonores pouvant\nrendre confus.
+
+#org @MOVE_DESC_SONICBOOM
+Envoie des ondes de\nchoc infligeant\n20 PV de d\eg\ots.
+
+#org @MOVE_DESC_DISABLE
+Emp\tche\nl'utilisation d'une\ndes attaques de\nl'ennemi.
+
+#org @MOVE_DESC_ACID
+Pulv\erise un acide.\nPeut baisser la\nDefense ennemie.
+
+#org @MOVE_DESC_EMBER
+Une faible attaque\nde feu pouvant\nbr\uler l'ennemi.
+
+#org @MOVE_DESC_FLAMETHROWER
+L'ennemi re\coit un\ntorrent de flammes.\nPeut aussi le\nbr\uler.
+
+#org @MOVE_DESC_MIST
+Cr\ee une brume\nstoppant la\nr\eduction des\ncapacit\es.
+
+#org @MOVE_DESC_WATERGUN
+Attaque l'ennemi en\nprojetant de l'eau.
+
+#org @MOVE_DESC_HYDROPUMP
+Envoie un puissant\njet d'eau pour\nfrapper l'ennemi.
+
+#org @MOVE_DESC_SURF
+Cr\ee une \enorme\nvague qui s'\ecrase\nsur l'ennemi.
+
+#org @MOVE_DESC_ICEBEAM
+Envoie un rayon de\nglace pouvant geler\nl'ennemi.
+
+#org @MOVE_DESC_BLIZZARD
+D\eclenche une\ntemp\tte pouvant geler\nl'ennemi.
+
+#org @MOVE_DESC_PSYBEAM
+Etrange rayon\npouvant rendre\nl'ennemi confus.
+
+#org @MOVE_DESC_BUBBLEBEAM
+Envoie des bulles\npouvant baisser la\nVitesse.
+
+#org @MOVE_DESC_AURORABEAM
+Envoie un rayon\narc-en-ciel pouvant\nbaisser l'Attaque.
+
+#org @MOVE_DESC_HYPERBEAM
+Projette un puissant\nrayon sur l'ennemi.\nLe lanceur se repose\nau tour suivant.
+
+#org @MOVE_DESC_PECK
+Frappe l'ennemi d'un\nbec pointu ou d'une\ncorne pour infliger\ndes d\eg\ots.
+
+#org @MOVE_DESC_DRILLPECK
+Une attaque\nutilisant le bec\ncomme une perceuse.
+
+#org @MOVE_DESC_SUBMISSION
+Une charge violente\nqui blesse aussi le\nlanceur.
+
+#org @MOVE_DESC_LOWKICK
+Un coup de pied\nfaisant plus mal aux\nennemis lourds.
+
+#org @MOVE_DESC_COUNTER
+Renvoie toute\nattaque physique\n2 fois plus fort.
+
+#org @MOVE_DESC_SEISMICTOSS
+Inflige des d\eg\ots\nselon le niveau du\nlanceur.
+
+#org @MOVE_DESC_STRENGTH
+Accumule de la\npuissance, puis\nfrappe l'ennemi.
+
+#org @MOVE_DESC_ABSORB
+Une attaque\nabsorbant la moiti\e\ndes d\eg\ots inflig\es.
+
+#org @MOVE_DESC_MEGADRAIN
+Une attaque\nabsorbant la moiti\e\ndes d\eg\ots inflig\es.
+
+#org @MOVE_DESC_LEECHSEED
+Plante des graines\npour voler des PV \a\nchaque tour.
+
+#org @MOVE_DESC_GROWTH
+Le corps du lanceur\nse d\eveloppe.\nAugmente l'Attaque\net l'Attaque Sp\e.
+
+#org @MOVE_DESC_RAZORLEAF
+Tranche avec des\nfeuilles. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_SOLARBEAM
+Absorbe la lumi\rre\net attaque le tour\nsuivant.
+
+#org @MOVE_DESC_POISONPOWDER
+R\epand une poudre\ntoxique pouvant\nempoisonner.
+
+#org @MOVE_DESC_STUNSPORE
+R\epand une poudre\npouvant paralyser\nl'ennemi.
+
+#org @MOVE_DESC_SLEEPPOWDER
+R\epand une poudre\npouvant endormir\nl'ennemi.
+
+#org @MOVE_DESC_PETALDANCE
+Une attaque furieuse\nde 2 \a 3 tours.\nLanceur confus.
+
+#org @MOVE_DESC_STRINGSHOT
+Ligote l'ennemi\nafin de r\eduire sa\nVitesse.
+
+#org @MOVE_DESC_DRAGONRAGE
+Envoie des ondes de\nchoc infligeant\n40 PV de d\eg\ots.
+
+#org @MOVE_DESC_FIRESPIN
+Encercle l'ennemi de\nflammes pendant 2 \a\n5 tours.
+
+#org @MOVE_DESC_THUNDERSHOCK
+Une attaque\n\electrique pouvant\nparalyser l'ennemi.
+
+#org @MOVE_DESC_THUNDERBOLT
+Forte attaque\n\electrique pouvant\nparalyser l'ennemi.
+
+#org @MOVE_DESC_THUNDERWAVE
+Un faible choc\n\electrique qui\nparalyse l'ennemi.
+
+#org @MOVE_DESC_THUNDER
+Une attaque\nfoudroyante pouvant\nparalyser l'ennemi.
+
+#org @MOVE_DESC_ROCKTHROW
+Envoie des cailloux\npour frapper\nl'ennemi.
+
+#org @MOVE_DESC_EARTHQUAKE
+Tremblement de terre\nsans effet sur les\nadversaires volants.
+
+#org @MOVE_DESC_FISSURE
+Fait tomber l'ennemi\ndans une crevasse et\nle met K.O.
+
+#org @MOVE_DESC_DIG
+Le lanceur creuse au\npremier tour et\nfrappe au second.
+
+#org @MOVE_DESC_TOXIC
+Empoisonne l'ennemi\navec une puissante\ntoxine.
+
+#org @MOVE_DESC_CONFUSION
+Une attaque Psy\npouvant rendre\nl'ennemi confus.
+
+#org @MOVE_DESC_PSYCHIC
+Une puissante\nattaque Psy pouvant\nbaisser la Def. Spe.
+
+#org @MOVE_DESC_HYPNOSIS
+Une attaque\nhypnotique pouvant\nendormir l'ennemi.
+
+#org @MOVE_DESC_MEDITATE
+M\editation pacifique\npour augmenter\nl'Attaque.
+
+#org @MOVE_DESC_AGILITY
+Relaxation du corps\npour booster la\nVitesse.
+
+#org @MOVE_DESC_QUICKATTACK
+Attaque fulgurante\nqui permet de\nfrapper d'abord.
+
+#org @MOVE_DESC_RAGE
+Augmente l'Attaque\ndu lanceur \a chaque\ncoup re\cu.
+
+#org @MOVE_DESC_TELEPORT
+Capacit\e Psy\npermettant de\nprendre aussit\mt la\nfuite.
+
+#org @MOVE_DESC_NIGHTSHADE
+Inflige des d\eg\ots\nselon le niveau du\nlanceur.
+
+#org @MOVE_DESC_MIMIC
+Imite une des\nattaques utilis\ees\npar l'ennemi.
+
+#org @MOVE_DESC_SCREECH
+Cri strident qui\nbaisse la Defense\nennemie.
+
+#org @MOVE_DESC_DOUBLETEAM
+Cr\ee des\nimages-miroirs pour\naugmenter l'esquive.
+
+#org @MOVE_DESC_RECOVER
+Regagne jusqu'\a la\nmoiti\e des PV max\ndu lanceur.
+
+#org @MOVE_DESC_HARDEN
+Contracte les\nmuscles pour\naugmenter la\nDefense.
+
+#org @MOVE_DESC_MINIMIZE
+Rapetisse le lanceur\npour augmenter\nl'esquive.
+
+#org @MOVE_DESC_SMOKESCREEN
+Baisse la pr\ecision\nennemie utilisant\nfum\ee, encre, etc.
+
+#org @MOVE_DESC_CONFUSERAY
+Un horrible rayon\nqui rend l'ennemi\nconfus.
+
+#org @MOVE_DESC_WITHDRAW
+Se recroqueville\ndans sa carapace.\nMonte la Defense.
+
+#org @MOVE_DESC_DEFENSECURL
+S'enroule, cache les\nfaiblesses. Monte la\nDefense.
+
+#org @MOVE_DESC_BARRIER
+Cr\ee une barri\rre\nqui augmente\nbeaucoup la D\efense.
+
+#org @MOVE_DESC_LIGHTSCREEN
+Cr\ee un mur lumineux\net r\eduit les d\eg\ots\nd'Atq. Sp.
+
+#org @MOVE_DESC_HAZE
+Cr\ee un nuage noir\nannulant tout\nchangement d'\etat.
+
+#org @MOVE_DESC_REFLECT
+Cr\ee un mur\nlumineux. Affaiblit\natt. physiques.
+
+#org @MOVE_DESC_FOCUSENERGY
+Concentration\npermettant un taux\nde critiques \elev\e.
+
+#org @MOVE_DESC_BIDE
+Encaisse les\nattaques sur 2 tours\net renvoie le\ndouble.
+
+#org @MOVE_DESC_METRONOME
+Remue un doigt et\nlance une attaque\nPok\emon au hasard.
+
+#org @MOVE_DESC_MIRRORMOVE
+Contre l'attaque de\nl'ennemi avec la\nm\tme attaque.
+
+#org @MOVE_DESC_SELFDESTRUCT
+Inflige de s\erieux\nd\eg\ots, mais met le\nlanceur K.O.
+
+#org @MOVE_DESC_EGGBOMB
+Envoie violemment un\n\yuf en direction de\nl'ennemi.
+
+#org @MOVE_DESC_LICK
+Blesse avec un long\ncoup de langue. Peut\nparalyser.
+
+#org @MOVE_DESC_SMOG
+Un gaz nocif pouvant\nempoisonner\nl'ennemi.
+
+#org @MOVE_DESC_SLUDGE
+Blesse en envoyant\ndes d\etritus. Peut\nempoisonner.
+
+#org @MOVE_DESC_BONECLUB
+Cogne l'ennemi avec\nun os. Peut apeurer.
+
+#org @MOVE_DESC_FIREBLAST
+Carbonise ce qui est\ntouch\e. Peut br\uler\nl'ennemi.
+
+#org @MOVE_DESC_WATERFALL
+Charge rapide\npermettant de\nfranchir des\ncascades.
+
+#org @MOVE_DESC_CLAMP
+Pi\rge l'ennemi et\nl'\ecrase pendant 2 \a\n5 tours.
+
+#org @MOVE_DESC_SWIFT
+Envoie des rayons en\nforme d'\etoile.\nTouche toujours.
+
+#org @MOVE_DESC_SKULLBASH
+Rentre la t\tte et\nattaque au tour\nsuivant.
+
+#org @MOVE_DESC_SPIKECANNON
+Lance des pointes\nqui frappent 2 \a\n5 fois.
+
+#org @MOVE_DESC_CONSTRICT
+Etrangle pour\nblesser. Peut\nbaisser la Vitesse.
+
+#org @MOVE_DESC_AMNESIA
+Oublie quelque chose\net augmente\nfortement la\nDef. Spe.
+
+#org @MOVE_DESC_KINESIS
+Distrait l'ennemi.\nPeut baisser la\npr\ecision.
+
+#org @MOVE_DESC_SOFTBOILED
+Regagne jusqu'\a la\nmoiti\e des PV max du\nlanceur.
+
+#org @MOVE_DESC_HIGHJUMPKICK
+Coup de pied saut\e.\nS'il est rat\e, le\nlanceur se blesse.
+
+#org @MOVE_DESC_GLARE
+Intimide l'ennemi et\nle paralyse de\nterreur.
+
+#org @MOVE_DESC_DREAMEATER
+Aspire la moiti\e des\nd\eg\ots inflig\es \a\nl'ennemi endormi.
+
+#org @MOVE_DESC_POISONGAS
+Enveloppe l'ennemi\nd'un gaz toxique.\nPeut empoisonner.
+
+#org @MOVE_DESC_BARRAGE
+Projette 2 \a 5 fois\ndes objets vers\nl'ennemi.
+
+#org @MOVE_DESC_LEECHLIFE
+Une attaque qui\naspire la moiti\e des\nd\eg\ots inflig\es.
+
+#org @MOVE_DESC_LOVELYKISS
+Demande un bisou en\ngrima\cant. Peut\nendormir.
+
+#org @MOVE_DESC_SKYATTACK
+Cherche les points\nfaibles et frappe au\ntour suivant.
+
+#org @MOVE_DESC_TRANSFORM
+Modifie ses cellules\npour copier\nl'ennemi.
+
+#org @MOVE_DESC_BUBBLE
+Envoie des bulles\npouvant baisser la\nVitesse.
+
+#org @MOVE_DESC_DIZZYPUNCH
+Un coup de poing\ncadenc\e. Peut rendre\nconfus.
+
+#org @MOVE_DESC_SPORE
+R\epand un nuage de\nspores qui endort \a\ntous les coups.
+
+#org @MOVE_DESC_FLASH
+Explosion lumineuse\nqui fait baisser la\npr\ecision.
+
+#org @MOVE_DESC_PSYWAVE
+Envoie une onde Psy\nd'intensit\e\nvariable.
+
+#org @MOVE_DESC_SPLASH
+Eclabousse\nl'ennemi... N'a\naucun effet.
+
+#org @MOVE_DESC_ACIDARMOR
+Liqu\efie le corps du\nlanceur et booste sa\nDefense.
+
+#org @MOVE_DESC_CRABHAMMER
+Cogne avec une\npince. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_EXPLOSION
+Inflige de s\erieux\nd\eg\ots, mais met le\nlanceur K.O.
+
+#org @MOVE_DESC_FURYSWIPES
+Ecorche l'ennemi\navec des griffes de\n2 \a 5 fois.
+
+#org @MOVE_DESC_BONEMERANG
+Lance un boomerang\nen os qui frappe\ndeux fois.
+
+#org @MOVE_DESC_REST
+Le lanceur dort\n2 tours et regagne\nPV et statut.
+
+#org @MOVE_DESC_ROCKSLIDE
+Envoie de gros\nrochers. Peut\napeurer l'ennemi.
+
+#org @MOVE_DESC_HYPERFANG
+Blesse d'un coup de\ncroc. Peut apeurer\nl'ennemi.
+
+#org @MOVE_DESC_SHARPEN
+R\eduit les polygones\net augmente\nl'Attaque.
+
+#org @MOVE_DESC_CONVERSION
+Change le type du\nlanceur en celui\nd'une cap. connue.
+
+#org @MOVE_DESC_TRIATTACK
+Envoie trois types\nde rayons en m\tme\ntemps.
+
+#org @MOVE_DESC_SUPERFANG
+Coup de croc qui\nfait baisser les PV\nde moiti\e.
+
+#org @MOVE_DESC_SLASH
+Coups de griffe.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_SUBSTITUTE
+Cr\ee un leurre avec\n1/4 des PV max du\nlanceur.
+
+#org @MOVE_DESC_STRUGGLE
+Fonctionne s'il ne\nreste plus de PP.\nBlesse un peu.
+
+#org @MOVE_DESC_SKETCH
+Copie en permanence\nla derni\rre attaque\nennemie.
+
+#org @MOVE_DESC_TRIPLEKICK
+Trois coups de pied\nde plus en plus\npuissants.
+
+#org @MOVE_DESC_THIEF
+Peut voler l'objet\ntenu par l'ennemi\npendant l'attaque.
+
+#org @MOVE_DESC_SPIDERWEB
+Capture l'ennemi et\nemp\tche toute fuite\nou changement.
+
+#org @MOVE_DESC_MINDREADER
+Pressent l'action\npour r\eussir\nl'attaque suivante.
+
+#org @MOVE_DESC_NIGHTMARE
+Inflige 1/4 de\nd\eg\ots \a un ennemi\nendormi chaque tour.
+
+#org @MOVE_DESC_FLAMEWHEEL
+Une charge enflamm\ee\nqui peut br\uler\nl'ennemi.
+
+#org @MOVE_DESC_SNORE
+Attaque sonore qui\nne peut \ttre lanc\ee\nqu'en \etant endormi.
+
+#org @MOVE_DESC_CURSE
+Coup qui fonctionne\nautrement pour les\nSpectres.
+
+#org @MOVE_DESC_FLAIL
+Inflige plus de\nd\eg\ots si les PV du\nlanceur sont\nfaibles.
+
+#org @MOVE_DESC_CONVERSION2
+Permet de r\esister\nau type de la\nderni\rre attaque.
+
+#org @MOVE_DESC_AEROBLAST
+Implosion \a taux de\ncoups critiques\n\elev\e.
+
+#org @MOVE_DESC_COTTONSPORE
+Envoie des spores\npour baisser la\nVitesse.
+
+#org @MOVE_DESC_REVERSAL
+Inflige plus de\nd\eg\ots si les PV du\nlanceur sont\nfaibles.
+
+#org @MOVE_DESC_SPITE
+R\eduit m\echamment\nles PP de la\nderni\rre att.\nennemie.
+
+#org @MOVE_DESC_POWDERSNOW
+Envoie une rafale de\nneige. Peut geler\nl'ennemi.
+
+#org @MOVE_DESC_PROTECT
+Esquive l'attaque,\nmais peut \echouer si\nr\eutilis\e.
+
+#org @MOVE_DESC_MACHPUNCH
+Coup de poing\nfulgurant. Permet de\nfrapper le 1er.
+
+#org @MOVE_DESC_SCARYFACE
+Effraie avec une\ngrimace pour baisser\nla Vitesse.
+
+#org @MOVE_DESC_FEINTATTACK
+Attire l'ennemi et\nfrappe sans jamais\n\echouer.
+
+#org @MOVE_DESC_SWEETKISS
+Demande un bisou\ntout mignon. Peut\nrendre confus.
+
+#org @MOVE_DESC_BELLYDRUM
+Am\eliore l'Attaque\nen sacrifiant des\nPV.
+
+#org @MOVE_DESC_SLUDGEBOMB
+Envoie des d\etritus\npour blesser. Peut\nempoisonner.
+
+#org @MOVE_DESC_MUDSLAP
+Envoie de la boue au\nvisage pour baisser\nla pr\ecision.
+
+#org @MOVE_DESC_OCTAZOOKA
+Jet d'encre qui\nblesse et baisse la\npr\ecision.
+
+#org @MOVE_DESC_SPIKES
+Pointes blessant\nlors d'un changement\nd'adversaire.
+
+#org @MOVE_DESC_ZAPCANNON
+Puissant et\nparalysant, mais pas\ntr\rs pr\ecis.
+
+#org @MOVE_DESC_FORESIGHT
+Emp\tche l'ennemi\nd'am\eliorer son\nesquive.
+
+#org @MOVE_DESC_DESTINYBOND
+Si le lanceur est\nmis K.O., l'ennemi\nle sera \egalement.
+
+#org @MOVE_DESC_PERISHSONG
+Un Pok\emon qui\nentend ce requiem\nest K.O. en 3 tours.
+
+#org @MOVE_DESC_ICYWIND
+Attaque glaciale.\nBaisse la Vitesse de\nl'ennemi.
+
+#org @MOVE_DESC_DETECT
+Esquive l'attaque,\nmais peut \echouer si\nr\eutilis\e.
+
+#org @MOVE_DESC_BONERUSH
+Frappe l'ennemi 2 \a\n5 fois avec un os.
+
+#org @MOVE_DESC_LOCKON
+Le coup suivant sera\nr\eussi \a coup s\ur.
+
+#org @MOVE_DESC_OUTRAGE
+Une attaque furieuse\nsur 2 \a 3 tours.\nLanceur confus.
+
+#org @MOVE_DESC_SANDSTORM
+Une temp\tte de sable\nqui dure plusieurs\ntours.
+
+#org @MOVE_DESC_GIGADRAIN
+Une attaque qui\nabsorbe la moiti\e\ndes d\eg\ots inflig\es.
+
+#org @MOVE_DESC_ENDURE
+Encaisse les\nattaques du tour et\nconserve 1 PV.
+
+#org @MOVE_DESC_CHARM
+Charme l'ennemi et\nbaisse brusquement\nson Attaque.
+
+#org @MOVE_DESC_ROLLOUT
+Une attaque sur\n5 tours, de plus en\nplus puissante.
+
+#org @MOVE_DESC_FALSESWIPE
+Une attaque qui\nlaisse au moins 1 PV\n\a l'ennemi.
+
+#org @MOVE_DESC_SWAGGER
+Rend l'ennemi confus\net booste l'Attaque.
+
+#org @MOVE_DESC_MILKDRINK
+Regagne jusqu'\a la\nmoiti\e des PV max du\nlanceur.
+
+#org @MOVE_DESC_SPARK
+Une charge\n\electrique qui peut\nparalyser l'ennemi.
+
+#org @MOVE_DESC_FURYCUTTER
+Une attaque qui\ns'intensifie apr\rs\nchaque coup.
+
+#org @MOVE_DESC_STEELWING
+Frappe l'ennemi en\nd\eployant des ailes\nd'acier.
+
+#org @MOVE_DESC_MEANLOOK
+Lance un regard\nm\echant pour\nemp\tcher la fuite.
+
+#org @MOVE_DESC_ATTRACT
+Si l'ennemi est du\nsexe oppos\e, il\ntombe amoureux.
+
+#org @MOVE_DESC_SLEEPTALK
+Le lanceur utilise\nun de ses coup au\nhasard en dormant.
+
+#org @MOVE_DESC_HEALBELL
+Carillon apaisant\nqui soigne tout\nchangement de\nstatut.
+
+#org @MOVE_DESC_RETURN
+Attaque dont la\npuissance d\epend de\nl'amiti\e.
+
+#org @MOVE_DESC_PRESENT
+Cadeau en forme de\nbombe. Peut\nrestaurer des PV.
+
+#org @MOVE_DESC_FRUSTRATION
+Attaque plus\npuissante si le\nDresseur est mal\naim\e.
+
+#org @MOVE_DESC_SAFEGUARD
+Force mystique\nemp\tchant tout\nchangement de\nstatut.
+
+#org @MOVE_DESC_PAINSPLIT
+Ajoute les PV des\ndeux combattants et\nles partage.
+
+#org @MOVE_DESC_SACREDFIRE
+Une attaque de feu\nmystique pouvant\nbr\uler.
+
+#org @MOVE_DESC_MAGNITUDE
+Un tremblement de\nterre d'intensit\e\nvariable.
+
+#org @MOVE_DESC_DYNAMICPUNCH
+Puissant et rend\nconfus, mais pas\ntr\rs pr\ecis.
+
+#org @MOVE_DESC_MEGAHORN
+Une charge violente,\ntoutes cornes en\navant.
+
+#org @MOVE_DESC_DRAGONBREATH
+Frappe l'ennemi\ngr\oce \a un souffle\nsuper puissant.
+
+#org @MOVE_DESC_BATONPASS
+Change de lanceur,\nmais garde les\neffets en cours.
+
+#org @MOVE_DESC_ENCORE
+Oblige l'ennemi \a\nr\ep\eter sa derni\rre\ncapacit\e durant\n3 tours.
+
+#org @MOVE_DESC_PURSUIT
+Inflige de s\erieux\nd\eg\ots lorsque\nl'ennemi change.
+
+#org @MOVE_DESC_RAPIDSPIN
+Frappe l'ennemi en\ntournant sur\nsoi-m\tme.
+
+#org @MOVE_DESC_SWEETSCENT
+S\eduit l'ennemi pour\nbaisser son esquive.
+
+#org @MOVE_DESC_IRONTAIL
+Attaque avec sa\nqueue. Peut baisser\nla Defense.
+
+#org @MOVE_DESC_METALCLAW
+Attaque avec des\ngriffes. Peut\naugmenter l'Attaque.
+
+#org @MOVE_DESC_VITALTHROW
+Attaque en dernier\nmais n'\echoue\njamais.
+
+#org @MOVE_DESC_MORNINGSUN
+Restaure les PV.\nVarie suivant le\ntemps.
+
+#org @MOVE_DESC_SYNTHESIS
+Restaure les PV.\nVarie suivant le\ntemps.
+
+#org @MOVE_DESC_MOONLIGHT
+Restaure les PV.\nVarie suivant le\ntemps.
+
+#org @MOVE_DESC_HIDDENPOWER
+Attaque dont le type\nd\epend du Pok\emon\nqui l'utilise.
+
+#org @MOVE_DESC_CROSSCHOP
+2 attaques\ntranchantes. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_TWISTER
+D\eclenche un\nterrible ouragan\nblessant l'ennemi.
+
+#org @MOVE_DESC_RAINDANCE
+Am\eliore les\nattaques Eau pendant\ncinq tours.
+
+#org @MOVE_DESC_SUNNYDAY
+Am\eliore les\nattaques Feu pendant\ncinq tours.
+
+#org @MOVE_DESC_CRUNCH
+Utilise ses crocs\npointus. Peut\nbaisser la Def. Spe.
+
+#org @MOVE_DESC_MIRRORCOAT
+Renvoie l'attaque\nsp\eciale ennemie\n2 fois plus fort.
+
+#org @MOVE_DESC_PSYCHUP
+Copie les effets de\nl'ennemi et les\npasse au lanceur.
+
+#org @MOVE_DESC_EXTREMESPEED
+Une attaque\nextr\tmement rapide\net puissante.
+
+#org @MOVE_DESC_ANCIENTPOWER
+Une attaque pouvant\naugmenter toutes les\nstats.
+
+#org @MOVE_DESC_SHADOWBALL
+Projette une grande\ntache qui peut\nbaisser la Def. Spe.
+
+#org @MOVE_DESC_FUTURESIGHT
+Accumule de\nl'\energie pour\nfrapper 2 tours\nplus tard.
+
+#org @MOVE_DESC_ROCKSMASH
+Une attaque\npuissante qui peut\nbaisser la Defense.
+
+#org @MOVE_DESC_WHIRLPOOL
+Pi\rge l'ennemi dans\nun tourbillon\npendant 2 \a 5 tours.
+
+#org @MOVE_DESC_BEATUP
+Appelle un Pok\emon\nqui se joint \a\nl'attaque.
+
+#org @MOVE_DESC_FAKEOUT
+Une attaque en d\ebut\nde bataille pour\napeurer.
+
+#org @MOVE_DESC_UPROAR
+Brouhaha de 2 \a\n5 tours. Emp\tche de\ndormir.
+
+#org @MOVE_DESC_STOCKPILE
+Accumule de la\npuissance pendant\n3 tours maximum.
+
+#org @MOVE_DESC_SPITUP
+Lib\rre la puissance\npr\ec\edemment\naccumul\ee.
+
+#org @MOVE_DESC_SWALLOW
+Absorbe la puissance\naccumul\ee et\nrestaure les PV.
+
+#org @MOVE_DESC_HEATWAVE
+Un souffle ardent\npouvant br\uler\nl'ennemi.
+
+#org @MOVE_DESC_HAIL
+Temp\tte de gr\tle qui\nfrappe \a chaque\ntour.
+
+#org @MOVE_DESC_TORMENT
+Perturbe l'ennemi.\nEmp\tche la\nr\eutilisation d'une\nattaque
+
+#org @MOVE_DESC_FLATTER
+Rend l'ennemi\nconfus, mais\naugmente son\nAtq. Spe.
+
+#org @MOVE_DESC_WILLOWISP
+Inflige une\ndouloureuse br\ulure\n\a l'ennemi.
+
+#org @MOVE_DESC_MEMENTO
+Le lanceur est mis\nK.O. et baisse les\ncap. ennemies.
+
+#org @MOVE_DESC_FACADE
+Am\eliore l'Attaque\nsi br\ul\e, paralys\e\nou empoisonn\e.
+
+#org @MOVE_DESC_FOCUSPUNCH
+Lanceur apeur\e si\ntouch\e. Attaque\npuissante.
+
+#org @MOVE_DESC_SMELLINGSALTS
+Utile contre les\nennemis paralys\es,\nmais les soigne.
+
+#org @MOVE_DESC_FOLLOWME
+Attire l'attention.\nLes adv. n'attaquent\nque le lanceur.
+
+#org @MOVE_DESC_NATUREPOWER
+Le type de l'attaque\nchange selon le lieu\ndu combat.
+
+#org @MOVE_DESC_CHARGE
+Charge de la\npuissance pour\nl'att. \electrique\nsuivante.
+
+#org @MOVE_DESC_TAUNT
+Provoque l'ennemi.\nL'oblige \a utiliser\nses attaques.
+
+#org @MOVE_DESC_HELPINGHAND
+Am\eliore la\npuissance d'attaque\ndu receveur.
+
+#org @MOVE_DESC_TRICK
+Oblige la cible \a\n\echanger les objets\ntenus.
+
+#org @MOVE_DESC_ROLEPLAY
+Imite la cible et\ncopie sa capacit\e\nsp\eciale
+
+#org @MOVE_DESC_WISH
+Un v\yu qui restaure\nles PV. Demande un\ncertain temps.
+
+#org @MOVE_DESC_ASSIST
+Attaque au hasard\navec un coup d'un\ndes partenaires.
+
+#org @MOVE_DESC_INGRAIN
+Plante des racines,\nregagne PV, ne peut\nplus changer.
+
+#org @MOVE_DESC_SUPERPOWER
+Attaque puissante\nmais baisse\nl'Attaque et la\nD\efense du lanceur.
+
+#org @MOVE_DESC_MAGICCOAT
+Renvoie les effets\nsp\eciaux vers le\nlanceur.
+
+#org @MOVE_DESC_RECYCLE
+Recycle un objet\npour l'utiliser une\nfois de plus.
+
+#org @MOVE_DESC_REVENGE
+Gagne en puissance\nquand bless\e par\nl'ennemi.
+
+#org @MOVE_DESC_BRICKBREAK
+D\etruit les\nbarri\rres comme\nProtection et\nblesse.
+
+#org @MOVE_DESC_YAWN
+Fait b\oiller\nl'ennemi, qui\ns'endort au tour\nsuivant.
+
+#org @MOVE_DESC_KNOCKOFF
+Frappe l'objet tenu\npour le rendre\ninutilisable.
+
+#org @MOVE_DESC_ENDEAVOR
+Attaque qui r\eduit\nles PV de l'ennemi\nau niveau des PV du\nlanceur.
+
+#org @MOVE_DESC_ERUPTION
+Inflige plus de\nd\eg\ots si PV du\nlanceur sont \elev\es.
+
+#org @MOVE_DESC_SKILLSWAP
+Le lanceur et la\ncible \echangent\nleurs cap. sp\ec.
+
+#org @MOVE_DESC_IMPRISON
+Emp\tche les ennemis\nd'utiliser les coups\ndu lanceur.
+
+#org @MOVE_DESC_REFRESH
+Soigne un\nempoisonnement, une\nparalysie, une\nbr\ulure.
+
+#org @MOVE_DESC_GRUDGE
+Si mis K.O.,\nsupprime les PP du\ndernier coup ennemi.
+
+#org @MOVE_DESC_SNATCH
+Vole les effets de\nla prochaine attaque\nennemie.
+
+#org @MOVE_DESC_SECRETPOWER
+Les effets de\nl'attaque d\ependent\ndu lieu.
+
+#org @MOVE_DESC_DIVE
+Plonge en apn\ee au\npremier tour et\nfrappe au second.
+
+#org @MOVE_DESC_ARMTHRUST
+Coups de poing\narr\tt\es qui frappent\n2 \a 5 fois.
+
+#org @MOVE_DESC_CAMOUFLAGE
+Change le type du\nPok\emon selon le\nlieu.
+
+#org @MOVE_DESC_TAILGLOW
+Flash lumineux qui\nbooste l'Atq. Spe.
+
+#org @MOVE_DESC_LUSTERPURGE
+Envoie une lueur\nintense. Peut\nbaisser Def. Spe.
+
+#org @MOVE_DESC_MISTBALL
+Envoie une rafale de\nduvet. Peut baisser\nAtq. Spe.
+
+#org @MOVE_DESC_FEATHERDANCE
+Enveloppe l'ennemi\nde duvet et baisse\nl'Attaque.
+
+#org @MOVE_DESC_TEETERDANCE
+Rend tous les\nPok\emon engag\es\nconfus.
+
+#org @MOVE_DESC_BLAZEKICK
+Coup de pied \a taux\nde critiques \elev\e.\nPeut br\uler.
+
+#org @MOVE_DESC_MUDSPORT
+Couvre le lanceur de\nboue. Augmente\nr\esist. \electr.
+
+#org @MOVE_DESC_ICEBALL
+Une attaque en 5\ntours de plus en\nplus puissante.
+
+#org @MOVE_DESC_NEEDLEARM
+Attaque avec des\nbras \epineux. Peut\napeurer.
+
+#org @MOVE_DESC_SLACKOFF
+Se d\etend et\nr\ecup\rre la moiti\e\ndes PV maximum.
+
+#org @MOVE_DESC_HYPERVOICE
+Attaque bruyante\nblessant avec des\nondes sonores.
+
+#org @MOVE_DESC_POISONFANG
+Morsure pouvant\ns\erieusement\nempoisonner\nl'ennemi.
+
+#org @MOVE_DESC_CRUSHCLAW
+Lac\rre avec des\ngriffes. Peut\nbaisser la Defense.
+
+#org @MOVE_DESC_BLASTBURN
+Puissant, mais\nimmobilise le\nlanceur le tour\nsuivant.
+
+#org @MOVE_DESC_HYDROCANNON
+Puissant, mais\nimmobilise le\nlanceur le tour\nsuivant.
+
+#org @MOVE_DESC_METEORMASH
+Coup de poing\nm\et\eore. Peut\naugmenter l'Attaque.
+
+#org @MOVE_DESC_ASTONISH
+Une attaque qui peut\nchoquer et apeurer\nl'ennemi.
+
+#org @MOVE_DESC_WEATHERBALL
+Type et puissance de\nl'attaque selon le\nclimat.
+
+#org @MOVE_DESC_AROMATHERAPY
+Parfum apaisant\nsoignant les\nchangements de\nstatut.
+
+#org @MOVE_DESC_FAKETEARS
+Fait semblant de\npleurer pour baisser\nla Def. Spe.
+
+#org @MOVE_DESC_AIRCUTTER
+Un vent tranchant.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_OVERHEAT
+Attaque \a pleine\npuissance, mais\nbaisse Atq. Spe.
+
+#org @MOVE_DESC_ODORSLEUTH
+Permet de toucher un\nPok\emon Spectre ou\nun ennemi\ninsaisissable.
+
+#org @MOVE_DESC_ROCKTOMB
+Des rochers frappent\nl'ennemi. R\eduit\naussi sa Vitesse.
+
+#org @MOVE_DESC_SILVERWIND
+Attaque poudreuse\nqui peut augmenter\ntoutes les stats du\nlanceur.
+
+#org @MOVE_DESC_METALSOUND
+Cri horrible qui\nbaisse fortement la\nDef. Spe.
+
+#org @MOVE_DESC_GRASSWHISTLE
+Endort l'ennemi en\nsifflant une douce\nm\elodie.
+
+#org @MOVE_DESC_TICKLE
+Fait rire l'ennemi\net baisse son\nAttaque et sa\nDefense.
+
+#org @MOVE_DESC_COSMICPOWER
+Pouvoir mystique qui\nmonte la Defense et\nla Def. Spe.
+
+#org @MOVE_DESC_WATERSPOUT
+Inflige plus de\nd\eg\ots si le lanceur\na beaucoup de PV.
+
+#org @MOVE_DESC_SIGNALBEAM
+Un \etrange rayon qui\npeut rendre l'ennemi\nconfus.
+
+#org @MOVE_DESC_SHADOWPUNCH
+Un coup de poing\nin\evitable sortant\nde l'ombre.
+
+#org @MOVE_DESC_EXTRASENSORY
+Pouvoir singulier\nqui peut apeurer\nl'ennemi.
+
+#org @MOVE_DESC_SKYUPPERCUT
+Un uppercut port\e en\ndirection du ciel.
+
+#org @MOVE_DESC_SANDTOMB
+Pi\rge l'ennemi dans\nun cyclone de 2 \a\n5 tours.
+
+#org @MOVE_DESC_SHEERCOLD
+Attaque glac\ee qui\nmet K.O. quand elle\nest r\eussie.
+
+#org @MOVE_DESC_MUDDYWATER
+Attaque d'eau\ncroupie. Peut\nbaisser la\npr\ecision.
+
+#org @MOVE_DESC_BULLETSEED
+Mitraille l'ennemi\navec 2 \a 5 graines\n\a la suite.
+
+#org @MOVE_DESC_AERIALACE
+Le lanceur prend\nl'ennemi de vitesse\net le lac\rre.\nN'\echoue jamais.
+
+#org @MOVE_DESC_ICICLESPEAR
+Mitraille l'ennemi\navec 2 \a 5 pics de\nglace \a la suite.
+
+#org @MOVE_DESC_IRONDEFENSE
+Endurcit le corps\npour booster la\nDefense.
+
+#org @MOVE_DESC_BLOCK
+Bloque la route de\nl'ennemi pour\nemp\tcher sa fuite.
+
+#org @MOVE_DESC_HOWL
+Grogne pour se\nrassurer et booster\nl'Attaque.
+
+#org @MOVE_DESC_DRAGONCLAW
+Tranche l'ennemi\navec des griffes\nac\er\ees.
+
+#org @MOVE_DESC_FRENZYPLANT
+Puissant, mais\nimmobilise le\nlanceur le tour\nsuivant.
+
+#org @MOVE_DESC_BULKUP
+Se gonfle pour\nbooster l'Attaque et\nla Defense.
+
+#org @MOVE_DESC_BOUNCE
+Saute et tombe le\ntour suivant. Peut\nparalyser.
+
+#org @MOVE_DESC_MUDSHOT
+Envoie de la boue \a\nl'ennemi pour\nr\eduire sa Vitesse.
+
+#org @MOVE_DESC_POISONTAIL
+Haut taux de\ncritiques. Peut\naussi empoisonner.
+
+#org @MOVE_DESC_COVET
+Demande gentiment un\nobjet d\etenu par\nl'ennemi.
+
+#org @MOVE_DESC_VOLTTACKLE
+Une dangereuse\ncharge qui blesse\naussi le lanceur.
+
+#org @MOVE_DESC_MAGICALLEAF
+Envoie des feuilles\nne pouvant \ttre\nesquiv\ees.
+
+#org @MOVE_DESC_WATERSPORT
+Mouille le lanceur\net augmente sa\nr\esistance au feu.
+
+#org @MOVE_DESC_CALMMIND
+M\editation pour\naugmenter\nl'Atq. Spe. et la\nDef. Spe.
+
+#org @MOVE_DESC_LEAFBLADE
+Tranche avec une\nfeuille. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_DRAGONDANCE
+Danse mystique\naugmentant l'Attaque\net la Vitesse.
+
+#org @MOVE_DESC_ROCKBLAST
+Projette des rochers\nsur l'ennemi 2 \a\n5 fois de suite.
+
+#org @MOVE_DESC_SHOCKWAVE
+Attaque \electrique\nrapide et impossible\n\a esquiver.
+
+#org @MOVE_DESC_WATERPULSE
+Envoi d'ondes\naquatiques. Peut\nrendre confus.
+
+#org @MOVE_DESC_DOOMDESIRE
+R\ecup\rre la lumi\rre\npour frapper 2 tours\nplus tard.
+
+#org @MOVE_DESC_PSYCHOBOOST
+Attaque \a pleine\npuissance, mais\nbaisse Atq. Spe.
+
+#org @MOVE_DESC_LEECHFANG
+Convertit 50% des\nd\eg\ots inflig\es \a\nla cible en PV\npour le lanceur.
+
+#org @MOVE_DESC_AIRSLASH
+Le lanceur Atq.\navec une lame\nd'air.Peut aussi\napeurer l'ennemi.
+
+#org @MOVE_DESC_AQUAJET
+Le lanceur fonce\nsur l'ennemi\nrapidement. Frappe\nen priorit\e.
+
+#org @MOVE_DESC_AQUATAIL
+Le lanceur Atq. en\nbalan\cant sa queue\ncomme une lame de\nfond en temp\tte.
+
+#org @MOVE_DESC_AURASPHERE
+Le lanceur d\egage\nune aura et\nprojette de\nl'\energie.\nN'\echoue jamais.
+
+#org @MOVE_DESC_AVALANCHE
+Une plus puissante\nsi le lanceur a\n\et\e bless\e par\nl'ennemi durant le\ntour.
+
+#org @MOVE_DESC_BRAVEBIRD
+Le lanceur replie\nses ailes et\ncharge.Blesse\ngravement le\nlanceur.
+
+#org @MOVE_DESC_BUGBUZZ
+Peut aussi baisser\nla D\efense\nSp\eciale de\nl'ennemi.
+
+#org @MOVE_DESC_BULLETPUNCH
+Le lanceur tape\naussi rapidement\nque des balles de\nrevolver.\nPrioritaire.
+
+#org @MOVE_DESC_CHARGEBEAM
+Le lanceur tire un\nrayon charg\e\nd'\electricit\e.\nPeut augmenter son\nAtq. Sp\e.
+
+#org @MOVE_DESC_CLOSECOMBAT
+Le lanceur combat\nau corps \a corps.\nBaisse aussi la\nD\ef. et sa SpDef.
+
+#org @MOVE_DESC_CROSSPOISON
+Un coup tranchant\nqui peut\nempoisonner\nl'ennemi. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_DARKPULSE
+Le lanceur d\egage\nune horrible aura\ncharg\ee de pens\ees\nmal\efiques.
+
+#org @MOVE_DESC_DISCHARGE
+Frappe tous les\nPok\emon autour du\nlanceur et peut\nparalyser.
+
+#org @MOVE_DESC_DRACOMETEOR
+Le lanceur invoque\ndes com\rtes.\nR\eduit beaucoup\nson Atq.Sp\e.
+
+#org @MOVE_DESC_DRAGONPULSE
+Le lanceur ouvre\nla bouche pour\nenvoyer une onde\nqui frappe\nl'ennemi.
+
+#org @MOVE_DESC_DRAINPUNCH
+Convertit 50% des\nd\eg\ots inflig\es \a\nla cible en PV\npour le lanceur.
+
+#org @MOVE_DESC_EARTHPOWER
+De terribles\ns\eismes secouent\nl'ennemi. Peut\naussi baisser sa\nD\ef. Sp\e.
+
+#org @MOVE_DESC_ENERGYBALL
+Utilise les\npouvoirs de la\nnature. Peut aussi\nbaisser sa D\efSp\e.
+
+#org @MOVE_DESC_FOCUSBLAST
+Le lanceur\nrassemble ses\nforces et laisse\n\eclater son\npouvoir.
+
+#org @MOVE_DESC_FORCEPALM
+Une onde de choc\nfrappe l'ennemi.\nPeut aussi\nparalyser la cible.
+
+#org @MOVE_DESC_GIGAIMPACT
+Le lanceur charge\nl'ennemi de toute\nsa puissance et\ndoit ensuite se\nreposer.
+
+#org @MOVE_DESC_GRASSKNOT
+L'ennemi est pi\eg\e\ndans de l'herbe\nqui le fait\ntr\ebucher.
+
+#org @MOVE_DESC_GUNKSHOT
+Le lanceur envoie\ndes d\etritus sur\nl'ennemi. Peut\naussi\nl'empoisonner.
+
+#org @MOVE_DESC_HAMMERARM
+Le lanceur donne\nun puissant coup\nde poing \a\nl'ennemi. R\eduit\nla Vts.
+
+#org @MOVE_DESC_HEADSMASH
+Le lanceur ass\rne\nun coup de t\tte\nd\esesp\er\e. Blesse\ngravement le\nlanceur.
+
+#org @MOVE_DESC_ICESHARD
+Le lanceur cr\ee\ndes \eclats de\nglace. Frappe en\npriorit\e.
+
+#org @MOVE_DESC_IRONHEAD
+Le lanceur heurte\nl'ennemi avec sa\nt\tte dure comme de\nl'acier. Peut\napeurer.
+
+#org @MOVE_DESC_LAVAPLUME
+Des boules de feu\ns'abattent sur\ntous les Pok\emon\nautour du lanceur.\nPeut br\uler.
+
+#org @MOVE_DESC_MAGNETBOMB
+Une bombe d'acier\nest jet\ee sur\nl'ennemi. Ne peut\npas \echouer.
+
+#org @MOVE_DESC_MUDBOMB
+Une bombe de boue.\nPeut diminuer la\nPr\ecision de\nl'adversaire
+
+#org @MOVE_DESC_NASTYPLOT
+Stimule l'esprit\npar de mauvaises\npens\ees. Augmente\nbeaucoup l'Atq.Sp\e.
+
+#org @MOVE_DESC_NIGHTSLASH
+Le lanceur lac\rre\nl'ennemi \a la\npremi\rre occasion.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_OMINOUSWIND
+Peut augmenter\ntoutes les\nstatistiques du\nlanceur.
+
+#org @MOVE_DESC_POWERGEM
+Le lanceur Atq.\navec un rayon de\nlumi\rre qui\nscintille.
+
+#org @MOVE_DESC_POWERWHIP
+Le lanceur fait\nvirevolter ses\nlianes/tentacules\npour fouetter\nl'ennemi.
+
+#org @MOVE_DESC_PSYCHOCUT
+Le lanceur\nentaille l'ennemi\navec des lames en\n\energie psychique.\nTaux crit \elev\e.
+
+#org @MOVE_DESC_ROCKCLIMB
+Peut rendre\nconfus. Sert aussi\n\a escalader des\nsurfaces\nrocailleuses.
+
+#org @MOVE_DESC_ROCKPOLISH
+Le lanceur se\npolit pour r\eduire\nsa friction \a\nl'air. Augmente\nbeaucoup la Vit.
+
+#org @MOVE_DESC_ROCKWRECKER
+Le lanceur\nprojette un gros\nrocher puis se\nreposera au tour\nsuivant.
+
+#org @MOVE_DESC_ROOST
+Le lanceur\natterrit et se\nrepose. Restaure\njusqu'\a la moiti\e\nde ses PV max.
+
+#org @MOVE_DESC_SEEDBOMB
+Le lanceur fait\npleuvoir un d\eluge\nde graines\nexplosives sur\nl'ennemi.
+
+#org @MOVE_DESC_SHADOWCLAW
+Atq. avec une\ngriffe puissante\nfaite d'ombres.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_SHADOWSNEAK
+Le lanceur \etend\nson ombre pour\nfrapper\npar-derri\rre.\nFrappe en priorit\e.
+
+#org @MOVE_DESC_VACUUMWAVE
+Le lanceur agite\nson poing pour\nprojeter une onde\nde vide. Frappe en\npriorit\e.
+
+#org @MOVE_DESC_XSCISSOR
+Le lanceur\ntaillade l'ennemi\nen utilisant ses\nfaux ou ses\ngriffes.
+
+#org @MOVE_DESC_ZENHEADBUTT
+Le lanceur donne\nun coup de t\tte\npsychique. Peut\napeurer l'ennemi.
+
+#org @MOVE_DESC_SWITCHEROO
+Le lanceur \echange\nson objet avec\ncelui de la cible.
+
+#org @MOVE_DESC_DRILLRUN
+Le lanceur tourne\nsur lui-m\tme et se\njette sur\nl'ennemi. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_BULLDOZE
+Le lanceur inflige\ndes d\eg\ots \a tous\nles Pok\emon autour\nde lui. Baisse\naussi leur Vit.
+
+#org @MOVE_DESC_ELECTROWEB
+Attrape l'ennemi\ndans un filet\n\electrique. Baisse\naussi la Vitesse\nde l'ennemi.
+
+#org @MOVE_DESC_FLAMECHARGE
+Le lanceur\ns'entoure de\nflammes et attaque\nl'ennemi. Sa\nVitesse augmente.
+
+#org @MOVE_DESC_FROSTBREATH
+Un souffle froid\nblesse l'ennemi.\nInflige toujours\nun coup critique.
+
+#org @MOVE_DESC_HEARTSTAMP
+D\econcentre\nl'ennemi avec des\ngestes mignons\npuis le brutalise.\nPeut apeurer.
+
+#org @MOVE_DESC_HONECLAWS
+Le lanceur\ns'aiguise les\ngriffes. Augmente\nl'Atq. et la\nPr\ecision.
+
+#org @MOVE_DESC_HORNLEECH
+Un coup de corne\nqui draine 1/2 des\nd\eg\ots inflig\es \a\nl'ennemi.
+
+#org @MOVE_DESC_COIL
+Le lanceur s'en-\nroule sur lui-\nm\tme. Son Atq., sa\nD\ef. et sa Pr\ec.\naugmentent.
+
+#org @MOVE_DESC_HURRICANE
+Le lanceur abat\nune temp\tte de\nvents violents sur\nl'ennemi. Peut\nrendre confus.
+
+#org @MOVE_DESC_ICICLECRASH
+Envoie de gros\nblocs de glace sur\nl'ennemi infli-\ngeant des d\eg\ots.\nPeut apeurer.
+
+#org @MOVE_DESC_WORKUP
+Le lanceur se\nrengorge. Augmente\nl'Atq. et\nl'Atq.Sp\e.
+
+#org @MOVE_DESC_QUIVERDANCE
+Une danse mystique\nqui augmente\nl'Atq.Sp\e, la\nD\ef.Sp\e et la Vit.\ndu lanceur.
+
+#org @MOVE_DESC_LEAFTORNADO
+L'ennemi est pris\ndans un tourbillon\nde feuilles\nac\er\ees. Peut\nbaisser Pr\ecision.
+
+#org @MOVE_DESC_LOWSWEEP
+Un coup de pied\nqui fauche\nl'ennemi. Il est\nplus efficace sur\nles ennemis lourds.
+
+#org @MOVE_DESC_SNARL
+Le lanceur hurle\nsur l'ennemi.\nBaisse l'Atq.Sp\e\nde l'ennemi.
+
+#org @MOVE_DESC_STRUGGLEBUG
+Le lanceur se\nd\ebat de toutes\nses forces, et\nbaisse l'Atq.Sp\e\nde l'ennemi.
+
+#org @MOVE_DESC_STEAMROLLER
+Le lanceur se\nroule en boule et\n\ecrase son ennemi.\nPeut aussi apeurer\nl'ennemi.
+
+#org @MOVE_DESC_STORMTHROW
+Un coup tr\rs\npuissant qui\ninflige toujours\nun coup critique.
+
+#org @MOVE_DESC_VENOSHOCK
+Le lanceur inocule\nun poison \a l'en-\nnemi. Si l'ennemi\nest empoisonn\e\nl'effet est doubl\e.
+
+#org @MOVE_DESC_WILDCHARGE
+Une charge\n\electrique\nviolente qui\nblesse \egalement\nle lanceur.
+
+#org @MOVE_DESC_POISONJAB
+Attaque l'ennemi\navec un membre\nplein de poison.\nPeut l'empoisonner.
+
+#org @MOVE_DESC_ACIDSPRAY
+Projette un jet\nd'acide faisant\nfondre l'ennemi.\nSa D\ef. Sp\e.\ndiminue beaucoup.
+
+#org @MOVE_DESC_FIERYDANCE
+Le lanceur envelo-\nppe l'ennemi de\nflammes. Peut\naugmenter l'Atq.-\nSp\e du lanceur.
+
+#org @MOVE_DESC_CLEARSMOG
+Le lanceur jette\ndes d\etritus sp\e-\nciaux qui annule\nles changements de\nStats de la cible.
+
+#org @MOVE_DESC_LEAFSTORM
+Invoque une tem-\np\tte de feuilles\nac\er\ees. R\eduit\nbeaucoup l'Atq.Sp\e\ndu lanceur.
+
+#org @MOVE_DESC_STONEEDGE
+Fait surgir des\npierres aiguis\ees\nsous l'ennemi.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_PAYBACK
+Le lanceur charge\nson \energie, puis\nAtq.. La puis. est\ndoubl\ee si le\nlancer en dernier.
+
+#org @MOVE_DESC_FIREFANG
+Le lanceur utilise\nune morsure\nenflamm\ee. Peut\naussi br\uler ou\napeurer l'ennemi.
+
+#org @MOVE_DESC_ICEFANG
+Le lanceur utilise\nune morsure\nglaciale. Peut\naussi geler ou\napeurer l'ennemi.
+
+#org @MOVE_DESC_THUNDERFANG
+Le lanceur utilise\nune morsure\n\electrifi\ee. Peut\naussi paralyser ou\napeurer l'ennemi.
+
+#org @MOVE_DESC_FLAREBLITZ
+Le lanceur s'embra-\nse avant de charger\nl'ennemi. Le choc\nblesse le lanceur.\nPeut br\uler.
+
+#org @MOVE_DESC_INFERNO
+L'ennemi est\nentour\e d'un\ntorrent de flammes\nardentes qui le\nbr\ulent.
+
+#org @MOVE_DESC_HEX
+Atq. acharn\ee qui\ncause davantage de\nd\eg\ots \a l'ennemi\ns'il a un probl\rme\nde statut.
+
+#org @MOVE_DESC_DUALCHOP
+Le lanceur frappe\nl'ennemi deux fois\nd'affil\ee avec les\nparties robustes de\nson corps.
+
+#org @MOVE_DESC_DOUBLEHIT
+Le lanceur frappe\nl'ennemi deux fois\nd'affil\ee.
+
+#org @MOVE_DESC_COTTONGUARD
+Le lanceur se\nprot\rge en s'emmi-\ntouflant. Sa\nD\efense augmente\n\enorm\ement.
+
+#org @MOVE_DESC_ACROBATICS
+Si le lanceur ne\ntient pas d'objet,\nl'Atq. inflige\ndavantage de\nd\eg\ots.
+
+#org @MOVE_DESC_FLAMEBURST
+Une attaque qui\nprojette des\nflammes touchant\ntout ennemi proche.
+
+#org @MOVE_DESC_UTURN
+Apr\rs l'Atq., le\nlanceur change de\nplace avec un\nPok\emon de\nl'\equipe.
+
+#org @MOVE_DESC_VOLTSWITCH
+Apr\rs l'Atq., le\nlanceur change de\nplace avec un\nPok\emon de\nl'\equipe.
+
+#org @MOVE_DESC_DRAGONTAIL
+Un coup puissant\nqui force \a\nchanger de place\navec un alli\e.
+
+#org @MOVE_DESC_CIRCLETHROW
+Un coup puissant\nqui force \a\nchanger de place\navec un alli\e.
+
+#org @MOVE_DESC_MIRRORSHOT
+Atq. avec une\nexplosion\nd'\energie.\nDiminution de la\nPr\ecision possible.
+
+#org @MOVE_DESC_WOODHAMMER
+Le lanceur heurte\nviolemment\nl'ennemi. Blesse\naussi gravement le\nlanceur.
+
+#org @MOVE_DESC_HEALPULSE
+Une aura de\nbien-\ttre fait\nr\ecup\erer la\nmoiti\e de ses PV\nmax \a la cible.
+
+#org @MOVE_DESC_FLASHCANNON
+Concentre son\n\energie et la fait\nexploser. Peut\nbaisser la D\ef.\nSp\e. ennemi.
+
+#org @MOVE_DESC_BUGBITE
+Pique l'ennemi\npuis s'il tient\nune Baie, la\nd\evore et obtient\nson effet.
+
+#org @MOVE_DESC_PLUCK
+Picore l'ennemi\npuis s'il tient\nune Baie, la\nd\evore et obtient\nson effet.
+
+#org @MOVE_DESC_SHELLSMASH
+Baisse la D\ef et\nla D\ef.Sp\e, mais\naugmente beaucoup\nl'Atq, l'Atq.Sp\e\net la Vts.
+
+#org @MOVE_DESC_RAGEPOWDER
+Le lanceur\ns'asperge d'une\npoudre irritante\npour attirer\nl'attention.
+
+#org @MOVE_DESC_WAKEUPSLAP
+La puissance\ndouble si la cible\nest endormie, et\ncela la soigne du\nsommeil.
+
+#org @MOVE_DESC_RAZORSHELL
+Un coquillage\naiguis\e lac\rre\nl'ennemi. Peut\naussi baisser sa\nD\efense.
+
+#org @MOVE_DESC_COPYCAT
+Imite la derni\rre\ncapacit\e employ\ee.\n\Echoue si aucune\ncapacit\e n'a \et\e\nutilis\ee.
+
+#org @MOVE_DESC_MIRACLEEYE
+Supprime\nl'insensibilit\e\ndes T\en\rbres aux\nAtq.s Psy et\nignore son Esquive.
+
+#org @MOVE_DESC_SUCKERPUNCH
+Permet au lanceur\nde frapper en prio-\nrit\e. \Echoue si\nl'ennemi ne pr\epare\npas une Atq..
+
+#org @MOVE_DESC_SCALD
+L'ennemi est\nattaqu\e par un jet\nd'eau bouillante.\nPeut aussi le\nbr\uler.
+
+#org @MOVE_DESC_BRINE
+Cette Atq. est\ndeux fois plus\npuissante lorsque\nl'ennemi a 50% de\nPV ou moins.
+
+#org @MOVE_DESC_FAIRYWIND
+D\echa\qne un vent\nmagique qui cingle\nl'ennemi.
+
+#org @MOVE_DESC_BABYDOLLEYES
+Fixe l'ennemi d'un\nair attendrissant\net diminue son\nAtq.. Agit en\npriorit\e.
+
+#org @MOVE_DESC_PLAYROUGH
+Atq. l'ennemi avec\nun c\olin. Peut\ndiminuer son Atq.
+
+#org @MOVE_DESC_MOONBLAST
+Atq. l'ennemi\ngr\oce au pouvoir\nde la lune. Peut\ndiminuer son\nAtq.Sp\e.
+
+#org @MOVE_DESC_DRAININGKISS
+Convertit 75% des\nd\eg\ots inflig\es \a\nla cible en PV\npour le lanceur.
+
+#org @MOVE_DESC_DAZZLINGGLEAM
+Lib\rre une\npuissante d\echarge\nlumineuse qui\ninflige des d\eg\ots\n\a l'ennemi.
+
+#org @MOVE_DESC_DISARMINGVOICE
+Laisse s'\echapper\nune voix enchan-\nteresse qui\ninflige des d\eg\ots\npsychiques.
+
+#org @MOVE_DESC_STEALTHROCK
+Lance des pierres\nflottantes autour\nde l'ennemi, bles-\nsant les ennemis\nentrant au combat.
+
+#org @MOVE_DESC_TOXICSPIKES
+Lance des pics\nautour de l'enne-\nmi. Ils empoison-\nnent les ennemis\nentrant au combat.
+
+#org @MOVE_DESC_HEALINGWISH
+Le lanceur tombe\nK.O. pour soigner\nles PV et le\nstatut du Pok\emon\npassant apr\rs lui.
+
+#org @MOVE_DESC_LUNARDANCE
+Le lanceur tombe\nK.O. pour soigner\nles PV et le\nstatut du Pok\emon\npassant apr\rs lui.
+
+#org @MOVE_DESC_TAILWIND
+G\en\rre une rafale\nde vent qui\naugmente la\nVitesse de l'\equipe\npendant 4 tours.
+
+#org @MOVE_DESC_BOOMBURST
+Atq. les Pok\emons\nalentour gr\oce \a\nune onde\nassourdissante.
+
+#org @MOVE_DESC_INCINERATE
+Des flammes\ncalcinent\nl'ennemi. Sa Baie\ndevient\ninutilisable.
+
+#org @MOVE_DESC_WORRYSEED
+Remplace le talent\nde la cible par\nInsomnia.
+
+#org @MOVE_DESC_GASTROACID
+Fluide grastrique\nneutralisant le\ntalent de l'ennemi.
+
+#org @MOVE_DESC_GEOMANCY
+Le lanceur\naugmente beaucoup\nson Atq.Sp\e, sa\nD\ef.Sp\e et sa Vit.
+
+#org @MOVE_DESC_FLOWERSHIELD
+La D\efense de tous\nles Pok\emons Plante\nau combat augmente.
+
+#org @MOVE_DESC_ROTOTILLER
+Augmente l'Atq. et\nl'Atq.Sp\e des\nPok\emons de type\nPlante.
+
+#org @MOVE_DESC_SHIFTGEAR
+Le lanceur\naugmente son Atq.\net augmente\nbeaucoup sa\nVitesse.
+
+#org @MOVE_DESC_STICKYWEB
+Place une toile\nautour de l'ennemi\nqui ralentit tout\nennemi entrant au\ncombat.
+
+#org @MOVE_DESC_STOREDPOWER
+Plus il y a de\nstats augment\ees\nplus l'Atq. est\npuissante.
+
+#org @MOVE_DESC_ACUPRESSURE
+Utilise sa\nconnaissance pour\nbeaucoup augmenter\nune stat.
+
+#org @MOVE_DESC_PUNISHMENT
+La puissance\nd\epend des\nstatistiques de\nl'adversaire.
+
+#org @MOVE_DESC_ASSURANCE
+L'Atq. double de\npuissance si\nl'ennemi a d\ej\a\n\et\e bless\e durant\nce tour.
+
+#org @MOVE_DESC_DRAGONRUSH
+Le lanceur frappe\nl'ennemi en\nprenant un air\nmena\cant. Peut\naussi l'apeurer.
+
+#org @MOVE_DESC_DARKVOID
+L'ennemi est\nplong\e dans les\nt\en\rbres. Il tombe\ndans un profond\nsommeil.
+
+#org @MOVE_DESC_FEINT
+Attire l'ennemi et\nfrappe sans jamais\n\echouer.
+
+#org @MOVE_DESC_PHANTOMFORCE
+Dispara\qt au 1er\ntour et frappe au\n2\rme. Cette Atq.\nignore les\nprotections.
+
+#org @MOVE_DESC_PETALBLIZZARD
+D\eclenche une\ntemp\tte de fleurs\nqui inflige des\nd\eg\ots aux\nPok\emons alentour.
+
+#org @MOVE_DESC_PLAYNICE
+L'ennemi se lie\nd'amiti\e avec le\nlanceur et perd sa\ncombativit\e,\ndiminuant son Atq..
+
+#org @MOVE_DESC_ROAROFTIME
+Frappe si forte\nqu'elle affecte le\ncours du temps.\nExige un repos\nd'un tour.
+
+#org @MOVE_DESC_SPACIALREND
+Le lanceur d\echire\nl'ennemi et\nl'espace autour de\nlui. Taux de\ncritiques \elev\e.
+
+#org @MOVE_DESC_MAGMASTORM
+L'ennemi est pris\ndans un tourbillon\nde feu qui dure\nplusieurs tours.
+
+#org @MOVE_DESC_FINALGAMBIT
+Le lanceur perd\ntous ses PV\nrestants et\ninflige autant de\nd\eg\ots.
+
+#org @MOVE_DESC_SHADOWFORCE
+Dispara\qt au 1er\ntour et frappe au\n2\rme. Cette Atq.\nignore les\nprotections.
+
+#org @MOVE_DESC_NUZZLE
+Le lanceur se\nfrotte \a la cible.\n100% de chance de\nparalyser la cible.
+
+#org @MOVE_DESC_RETALIATE
+Si un Pok\emon de\nl'\equipe a \et\e mis\nK.O. au tour\nd'avant, l'effet\naugmente.
+
+#org @MOVE_DESC_STEELYHIT
+Une Atq. physique\nqui charge\nl'ennemi.
+
+#org @MOVE_DESC_JUDGMENT
+Lib\rre des rayons\nlumineux.Le type\nvarie selon la\nPlaque tenue.
+
+#org @MOVE_DESC_FREEZEDRY
+Refroidit l'ennemi\net peut le geler.\nSuper efficace sur\nle type Eau.
+
+#org @MOVE_DESC_PSYSHOCK
+Mat\erialise des\nondes les\nprojettant sur\nl'ennemi. Inflige\ndes d\eg\ots phys.
+
+#org @MOVE_DESC_ROUND
+Si plusieurs\nPok\emons\nd\eclenchent cette\nAtq. \a la suite,\nl'effet augmente.
+
+#org @MOVE_DESC_TAILSLAP
+Le lanceur frappe\nl'ennemi de deux \a\ncinq fois\nd'affil\ee avec sa\nqueue robuste.
+
+#org @MOVE_DESC_GEARGRIND
+Jette deux \ecrous\nd'acier qui\nfrappent l'ennemi\ndeux fois\nd'affil\ee.
+
+#org @MOVE_DESC_NATURALGIFT
+La puissance et le\ntype d\epend de la\nBaie tenue.
+
+#org @MOVE_DESC_CHIPAWAY
+Inflige des d\eg\ots\nsans tenir compte\ndes changements de\nstats adverses.
+
+#org @MOVE_DESC_SMACKDOWN
+Jette toutes\nsortes de\nprojectiles. Si\nl'ennemi volait,\nil tombe au sol.
+
+#org @MOVE_DESC_HYPERSPACEHOLE
+Attaque\nsoudainement\nl'ennemi de c\mt\e.\nIgnore les\nprotections.
+
+#org @MOVE_DESC_GYROBALL
+Plus la Vitesse du\nlanceur est basse,\nplus il inflige de\nd\eg\ots.
+
+#org @MOVE_DESC_HYPERSPACEFURY
+Inflige une nu\ee\nde coups baissant\nla D\ef.
+
+#org @MOVE_DESC_ATTACKORDER
+Appelle ses\nsous-fifres pour\nfrapper l'ennemi.\nTaux de critiques\n\elev\e.
+
+#org @MOVE_DESC_DEFENDORDER
+Appelle ses\nsous-fifres form-\nant un bouclier\naugmentant sa D\ef\net sa D\ef.Sp\e.
+
+#org @MOVE_DESC_HEALORDER
+Le lanceur appelle\nses sous-fifres\npour restaurer la\nmoiti\e de ses PV\nMax.
+
+#org @MOVE_DESC_CAPTIVATE
+Diminue l'Atq.Sp\e\ndu Pok\emon ennemi\nde 2 niveaux s'il\nest de sexe oppos\e.
+
+#org @MOVE_DESC_DEFOG
+Disperse la\nProtection ou le\nMur Lumi\rre\nennemi. Diminue\nl'esc.
+
+#org @MOVE_DESC_ORIGINPULSE
+D'innombrables\nrayons lumineux\nd'un bleu\n\etincelant\ns'abattent.
+
+#org @MOVE_DESC_PRECIPICEBLADES
+Transforme la\npuissance de la\nterre et Atq. la\ncible avec une\nlame ac\er\ee.
+
+#org @MOVE_DESC_GUARDSWAP
+Echange les\nmodifications de\nla D\ef Sp\e et de\nla D\ef avec la\ncible.
+
+#org @MOVE_DESC_STEAMERUPTION
+Plonge l'ennemi\ndans une chaleur\n\etouffante. Peut\nle br\uler.
+
+#org @MOVE_DESC_METALBURST
+Attaque l'ennemi\nayant bless\e\ndurant le m\tme\ntour en frappant\nplus fort.
+
+#org @MOVE_DESC_MEFIRST
+Vole l'Atq. de\nl'ennemi et\nl'utilise. Doit\n\ttre plus rapide\nque l'ennemi.
+
+#org @MOVE_DESC_POWERSWAP
+Echange les\nmodifications de\nl'Atq.Sp\e et de\nl'Atq. du lanceur\navec la cible.
+
+#org @MOVE_DESC_POWERTRICK
+Utilise ses\npouvoirs psychi-\nques pour \echanger\nsa D\efense et son\nAttaque.
+
+#org @MOVE_DESC_PSYCHOSHIFT
+Transf\rre ses\nprobl\rmes de\nstatut \a l'ennemi.
+
+#org @MOVE_DESC_WRINGOUT
+Le lanceur ligote\nl'ennemi. La\npuissance d\epend\ndes PV restants de\nl'ennemi.
+
+#org @MOVE_DESC_KINGSSHIELD
+Le lanceur se\nprot\rge. Diminue\nl'Atq de tout\nPok\emon entrant en\ncontact.
+
+#org @MOVE_DESC_PSYSTRIKE
+Mat\erialise des\nondes qu'il\nprojette sur\nl'ennemi. Inflige\ndes d\eg\ots phys.
+
+#org @MOVE_DESC_AUTOTOMIZE
+S'all\rge. Son\npoids diminue et\nsa Vit. augmente\nbeaucoup.
+
+#org @MOVE_DESC_DIAMONDSTORM
+Temp\tte de dia-\nmants infligeant\ndes d\eg\ots. Peut\nbeaucoup augmenter\nla D\ef du lanceur.
+
+#org @MOVE_DESC_SLUDGEWAVE
+Vague de d\etritus\nattaquant tous les\nPok\emons autour.\nPeut aussi\nempoisonner.
+
+#org @MOVE_DESC_HEAVYSLAM
+Se jette sur\nl'ennemi. S'il est\nplus lourd que\nl'ennemi, il fera\nplus de d\eg\ots.
+
+#org @MOVE_DESC_SYNCHRONOISE
+Des ondes blessent\ntous les Pok\emon\nalentour du m\tme\ntype que le\nlanceur.
+
+#org @MOVE_DESC_ELECTROBALL
+Envoie une boule\nd'\electricit\e. Si\nplus rapide, il\nfera d'avantage de\nd\eg\ots.
+
+#org @MOVE_DESC_FOULPLAY
+Le lanceur utilise\nattaque en\nutilisant la\nstatistique de\nl'adversaire.
+
+#org @MOVE_DESC_ENTRAINMENT
+Le lanceur danse.\nIl force sa cible\n\a l'imiter, ce qui\nlui fait adopter\nson talent.
+
+#org @MOVE_DESC_NIGHTDAZE
+Attaque l'ennemi\navec une onde de\nchoc t\en\ebreuse.\nPeut aussi baisser\nsa Pr\ecision.
+
+#org @MOVE_DESC_ECHOEDVOICE
+Si le lanceur ou\nd'autres Pok\emon\nl'utilisent \a\nchaque tour,\nl'effet augmente.
+
+#org @MOVE_DESC_LANDSWRATH
+Utilise la puis-\nsance du sol pour\ninfliger des\nd\eg\ots.
+
+#org @MOVE_DESC_OBLIVIONWING
+Absorbe 75% des\nd\eg\ots inflig\es \a\nla cible en PV.
+
+#org @MOVE_DESC_HEARTSWAP
+Utilise un pouvoir\npour \echanger ses\nchangements de\nstats avec la\ncible.
+
+#org @MOVE_DESC_CRUSHGRIP
+Ecrase l'ennemi.\nPlus il a de PV et\nplus l'attaque est\npuissante.
+
+#org @MOVE_DESC_SACREDSWORD
+Lac\rre l'ennemi et\nlui inflige des\nd\eg\ots en ignorant\nses changements de\nstats.
+
+#org @MOVE_DESC_HEATCRASH
+Projette son corps\nenflamm\e. S'il est\nplus lourd, il\nfait plus de\nd\eg\ots.
+
+#org @MOVE_DESC_HEADCHARGE
+Donne un coup avec\nsa t\tte. Blesse\naussi le lanceur.
+
+#org @MOVE_DESC_TECHNOBLAST
+Projette un rayon.\nLe type varie\nselon le Module\ntenu.
+
+#org @MOVE_DESC_RELICSONG
+Attaque l'ennemi\nen lui chantant\nune chanson d'un\nautre temps. Peut\nl'endormir.
+
+#org @MOVE_DESC_SECRETSWORD
+Lac\er\e par une\nlongue corne. Son\npouvoir myst\erieux\ninflige des d\eg\ots\nphysiques.
+
+#org @MOVE_DESC_GLACIATE
+Cong\rle tout sur\nson passage.\nR\eduit aussi la\nVitesse ennemie.
+
+#org @MOVE_DESC_BOLTSTRIKE
+Charge \electrique\nsurpuissante. Peut\nparalyser.
+
+#org @MOVE_DESC_BLUEFLARE
+Redoutables\nflammes bleues.\nPouvant br\uler.
+
+#org @MOVE_DESC_FREEZESHOCK
+Bloc de glace\n\electrifi\e\nprojeter au second\ntour. Pouvant\nparalyser.
+
+#org @MOVE_DESC_ICEBURN
+Au second tour,\nprojette un vent\nglacial\nd\evastateur.\nPouvant br\uler.
+
+#org @MOVE_DESC_VCREATE
+Projette une\nflamme ardente.\nBaisse sa D\ef, sa\nD\ef.Sp\e et sa Vit.
+
+#org @MOVE_DESC_FUSIONFLARE
+Boule de feu\ngigantesque.\nL'effet augmente\nsous l'influence\nd'\Eclair Croix.
+
+#org @MOVE_DESC_FUSIONBOLT
+Orbe \electrique\ngigantesque.\nL'effet augmente\nsous l'influence\nde Flamme Croix.
+
+#org @MOVE_DESC_FELLSTINGER
+Augmente\n\enorm\ement l'ATQ.\nsi un ennemi est\nmis K.O. avec\ncette capacit\e.
+
+#org @MOVE_DESC_NOBLEROAR
+Pousse un\nrugissement qui\nintimide l'ennemi\net diminue son Atq\net son Atq.Sp\e.
+
+#org @MOVE_DESC_DRAGONASCENT
+S'abat \a toute\nvitesse sur la\ncible depuis les\nhautes couches de\nl'atmosph\rre.
+
+#org @MOVE_DESC_PARTINGSHOT
+Baisse l'Atq et\nl'Atq.Sp\e de la\ncible puis change\nde place avec un\nco\equipier.
+
+#org @MOVE_DESC_TOPSYTURVY
+Inverse tous les\nchangements de\nstats de la cible.
+
+#org @MOVE_DESC_COREENFORCER
+Si la cible a\nattaqu\e avant le\nlanceur, elle perd\nson talent.
+
+#org @MOVE_DESC_CHATTER
+Attaque avec des\nondes sonores.\nRend l'ennemi\nconfus.
+
+#org @MOVE_DESC_CONFIDE
+D\evoile des\nsecrets \a l'ennemi\net voit son\nAtq.Sp\e diminuer.
+
+#org @MOVE_DESC_WATERSHURIKEN
+Frappe en priorit\e\n2 \a 5 fois\nd'affil\ee en un\ntour.
+
+#org @MOVE_DESC_MYSTICALFIRE
+Diminue l'Atq.Sp\e\nde l'ennemi.
+
+#org @MOVE_DESC_SPIKYSHIELD
+Prot\rge des\nattaques, diminue\nles PV de tout\nennemi en contact\navec le lanceur.
+
+#org @MOVE_DESC_EERIEIMPULSE
+Diminue beaucoup\nson Atq.Sp\e. du\nlanceur.
+
+#org @MOVE_DESC_HOLDBACK
+Le lanceur attaque\navec retenue, et\nlaisse au moins 1\nPV \a l'ennemi.
+
+#org @MOVE_DESC_INFESTATION
+Attaque perdurant\npendant 4-5 tours.\nLa cible ne peut\npas fuir au cours\nde cette p\eriode.
+
+#org @MOVE_DESC_POWERUPPUNCH
+Donne un coup de\npoing. Augmente\nl'Attaque du\nlanceur si la\ncapacit\e touche.
+
+#org @MOVE_DESC_THOUSANDARROWS
+Touche m\tme les\nPok\emon en l'air\nen plus de les\nfaire tomber au\nsol.
+
+#org @MOVE_DESC_THOUSANDWAVES
+L'ennemi pris\ndedans ne peut pas\ns'\echapper.
+
+#org @MOVE_DESC_PARABOLICCHARGE
+Inflige des d\eg\ots\nautour du lanceur.\nIl r\ecup\rre en PV\nla moiti\e des\nd\eg\ots.
+
+#org @MOVE_DESC_SEARINGSHOT
+Des boules de feu\nautour du lanceur.\nPeut aussi les\nbr\uler.
+
+#org @MOVE_DESC_SEEDFLARE
+Peut aussi\nbeaucoup baisser\nla D\ef.Sp\e de la\ncible.
+
+#org @MOVE_DESC_ACCELEROCK
+Frappe en priorit\e.
+
+#org @MOVE_DESC_ANCHORSHOT
+Une fois la cible\naccroch\ee, elle\nl'emp\tche de\ns'enfuir.
+
+#org @MOVE_DESC_AURORAVEIL
+R\eduit les d\eg\ots\ndes attaques\ndurant 5 tours.\nUtilisable que\nlorsqu'il gr\tle.
+
+#org @MOVE_DESC_BANEFULBUNKER
+Prot\rge et\nempoisonne\nl'ennemi si il\navait utilis\e une\nattaque de contact.
+
+#org @MOVE_DESC_BEAKBLAST
+S'il subit une at-\ntaque directe pen-\ndant la mont\ee en\ntemp\erature, l'at-\ntaquant br\ulera.
+
+#org @MOVE_DESC_BRUTALSWING
+Le lanceur pivote\npour prendre de\nl'\elan et infliger\ndes d\eg\ots \a tous\nles autres Pok\emon.
+
+#org @MOVE_DESC_BURNUP
+Utilisable que si\nle lanceur est de\ntype feu. Le\nlanceur perd le\ntype feu.
+
+#org @MOVE_DESC_CLANGINGSCALES
+Baisse la D\ef du\nlanceur.
+
+#org @MOVE_DESC_DARKESTLARIAT
+Le lanceur frappe\nen tournant vio-\nlemment et ignore\nles changements de\nstats.
+
+#org @MOVE_DESC_DRAGONHAMMER
+Le lanceur utilise\nson corps comme un\nv\eritable marteau\npour \ecraser la\ncible.
+
+#org @MOVE_DESC_FIRELASH
+Frappe la cible\navec un fouet\nincandescent et\nbaisse sa D\efense.
+
+#org @MOVE_DESC_FIRSTIMPRESSION
+Une capacit\e tr\rs\npuissante, mais\nqui ne fonctionne\nqu'au premier tour.
+
+#org @MOVE_DESC_FLEURCANNON
+Envoie un rayon\nlaser d\evastateur.\nBaisse beaucoup\nl'Attaque Sp\eciale\ndu lanceur.
+
+#org @MOVE_DESC_FLORALHEALING
+Rend la moiti\e de\nses PV max \a la\ncible. Plus\nefficace sur un\nChamp Herbu.
+
+#org @MOVE_DESC_GEARUP
+Augmente l'Atq et\nl'Atq.Sp\e du lanc-\neur et ses alli\es\ns'ils ont les ta-\nlents Plus - Minus.
+
+#org @MOVE_DESC_HIGHHORSEPOWER
+Le lanceur attaque\nviolemment en\nutilisant tout son\npoids.
+
+#org @MOVE_DESC_ICEHAMMER
+R\eduit la Vitesse\ndu lanceur.
+
+#org @MOVE_DESC_LASERFOCUS
+Se concentre pour\n\ttre s\ur de porter\nun coup critique\nau tour suivant.
+
+#org @MOVE_DESC_LEAFAGE
+Le lanceur attaque\nl'ennemi avec des\nfeuilles.
+
+#org @MOVE_DESC_LIQUIDATION
+Peut baisser la\nD\efense de la\ncible.
+
+#org @MOVE_DESC_LUNGE
+Inflige des d\eg\ots\net baisser\nl'Attaque ennemi.
+
+#org @MOVE_DESC_MOONGEISTBEAM
+Ignore le talent\nde la cible.
+
+#org @MOVE_DESC_MULTIATTACK
+Le type de la\ncapacit\e d\epend de\nla ROM tenue.
+
+#org @MOVE_DESC_NATURESMADNESS
+Baisse les PV de\nla cible de moiti\e.
+
+#org @MOVE_DESC_POLLENPUFF
+Sur un ennemi,\nexplose et inflige\ndes d\eg\ots. Sur un\nalli\e, elle le\nsoigne.
+
+#org @MOVE_DESC_POWERTRIP
+Plus les stats ont\n\et\e augment\ees,\nplus la puissance\nde l'attaque est\n\elev\ee.
+
+#org @MOVE_DESC_PRISMATICLASER
+N\ecessite un tour\nde repos.
+
+#org @MOVE_DESC_PSYCHICFANGS
+Brise les\nbarri\rres comme\nMur Lumi\rre et\nProtection.
+
+#org @MOVE_DESC_PURIFY
+Soigne les alt\e-\nrations de statut\nde la cible, ce\nqui lui permet de\nregagner des PV.
+
+#org @MOVE_DESC_REVELATIONDANCE
+Le type de\nl'attaque est le\nm\tme que celui du\nlanceur.
+
+#org @MOVE_DESC_SHADOWBONE
+Peut aussi baisser\nla D\ef de la cible.
+
+#org @MOVE_DESC_SHELLTRAP
+Carapace pi\eg\ee.\nSi l'ennemi util-\nise une capacit\e\nphysique, la\ncarapace explose.
+
+#org @MOVE_DESC_SHOREUP
+R\ecup\rre jusqu'\a\n50% PV max. Lors\nd'une temp\tte de\nsable, il en\nr\ecup\rre plus.
+
+#org @MOVE_DESC_SMARTSTRIKE
+Touche toujours\nl'ennemi.
+
+#org @MOVE_DESC_SOLARBLADE
+Absorbe la lumi\rre\nau premier tour et\nattaque au second\ntour.
+
+#org @MOVE_DESC_SPARKLINGARIA
+Soigne les\nbr\ulures des\ntouch\es par les\nbulles.
+
+#org @MOVE_DESC_SPECTRALTHIEF
+Vole les\naugmentations de\nstats de l'ennemi\navant de\nl'attaquer.
+
+#org @MOVE_DESC_SPEEDSWAP
+Intervertit la\nVitesse du lanceur\net celle de la\ncible.
+
+#org @MOVE_DESC_SPIRITSHACKLE
+Une attaque qui\ncoud l'ennemi \a\nson ombre, ce qui\nl'emp\tche de\ns'enfuir.
+
+#org @MOVE_DESC_SPOTLIGHT
+Met un Pok\emon\nsous le feu des\nprojecteurs et\nforce tout le\nmonde \a le viser.
+
+#org @MOVE_DESC_STOMPINGTANTRUM
+Si une capacit\e\nutilis\ee a \echou\e\nau tour pr\ec\edent,\nla puissance est\ndoubl\ee.
+
+#org @MOVE_DESC_STRENGTHSAP
+Rend au lanceur\nune quantit\e de PV\n\egale \a la stat\nd'Atq ennemie,\npuis la baisse.
+
+#org @MOVE_DESC_SUNSTEELSTRIKE
+Ignore le talent\nde l'ennemi.
+
+#org @MOVE_DESC_TEARFULLOOK
+La cible perd\ntoute vell\eit\e de\ncombat et son Atq\net son Atq.Sp\e\nbaissent.
+
+#org @MOVE_DESC_THROATCHOP
+La cible ne peut\n\emettre de sons\npendant 2 tours.
+
+#org @MOVE_DESC_TOXICTHREAD
+Empoisonne la\ncible et baisse sa\nVitesse.
+
+#org @MOVE_DESC_TROPKICK
+Inflige des d\eg\ots\n\a la cible et\nbaisse son Attaque.
+
+#org @MOVE_DESC_ZINGZAP
+Envoie un puissant\nchoc \electrique.\nPeut aussi\neffrayer.
+
+#org @MOVE_DESC_ELECTRICTERRAIN
+Pour 5 tours, les\nPok\emons au sol ne\npeuvent s'endormir,\nles atqs \ELCTRK\ngagnent en puiss.
+
+#org @MOVE_DESC_GRASSYTERRAIN
+Pour 5 tours, les\nPok\emons au sol\nr\ecup\rrent des PV\net les atqs PLT\ngagnent en puiss.
+
+#org @MOVE_DESC_MISTYTERRAIN
+Pour 5 tours, les\nPok\emon au sol\nsont immu. aux Pb.\nde statut et les\natq. DRGN baissent.
+
+#org @MOVE_DESC_PSYCHICTERRAIN
+Pour 5 tours, les\nPKMs au sol sont\nimmu. aux prio. et\nles attaques Psy\ngagnent en puis.
+
+#org @MOVE_DESC_GRASSPLEDGE
+En l'utilisant\navec Aire d'Eau,\nun mar\ecage\nappara\qt.
+
+#org @MOVE_DESC_FIREPLEDGE
+En l'utilisant\navec Aire d'Herbe,\nune mer de feu\nappara\qt.
+
+#org @MOVE_DESC_WATERPLEDGE
+En l'utilisant\navec Aire de Feu,\nun arc-en-ciel\nappara\qt.
+
+#org @MOVE_DESC_TRICKROOM
+Zone myst\erieuse\no\d les plus lents\nfrappent en 1er\npendant 5 tours.
+
+#org @MOVE_DESC_MAGICROOM
+Zone myst\erieuse\no\d les objets\ntenus n'ont plus\nd'effet. Dure 5\ntours.
+
+#org @MOVE_DESC_WONDERROOM
+Zone myst\erieuse\no\d la D\ef et la\nD\ef.Sp\e sont\ninvers\ees. Dure 5\ntours.
+
+#org @MOVE_DESC_CRAFTYSHIELD
+Utilise une force\nmyst\erieuse pour\nprot\eger l'\equipe\ndes capacit\es de\nstatut.
+
+#org @MOVE_DESC_MATBLOCK
+Bloque les\ncapacit\es\noffensives, ne\nbloque pas les\ncap. de statut.
+
+#org @MOVE_DESC_QUICKGUARD
+Le lanceur et son\n\equipe sont\nprot\eg\es contre\nles attaques\nprioritaires.
+
+#org @MOVE_DESC_WIDEGUARD
+Annule les\nattaques visant\ntoute l'\equipe\npendant un tour.
+
+#org @MOVE_DESC_AQUARING
+Un voile d'eau\nrecouvre le\nlanceur et\nr\eg\en\rre ses PV \a\nchaque tour.
+
+#org @MOVE_DESC_AROMATICMIST
+Gr\oce \a un parfum\nmyst\erieux,\naugmente la\nD\efense Sp\eciale\nd'un alli\e.
+
+#org @MOVE_DESC_BELCH
+Le lanceur doit\navoir consomm\e une\nbaie.
+
+#org @MOVE_DESC_BESTOW
+Si la cible ne\ntient pas d'objet,\nle lanceur lui\ndonne l'objet\nqu'il porte.
+
+#org @MOVE_DESC_FLING
+Puissance et\neffets d\ependent\nde l'objet lanc\e.
+
+#org @MOVE_DESC_FLYINGPRESS
+Une attaque en\npiqu\e depuis le\nciel, \a la fois de\ntype Combat et de\ntype Vol.
+
+#org @MOVE_DESC_GRAVITY
+Durant 5 tours,\nles Pok\emons en\nl'air tombent au\nsol et ne peuvent\ny \ttre.
+
+#org @MOVE_DESC_GUARDSPLIT
+Additionne la D\ef\net la D\ef.Sp\e de\nlanceur et de la\ncible et les repar-\ntage \equitablement.
+
+#org @MOVE_DESC_HEALBLOCK
+L'adversaire ne\npeut pas restaurer\nses PV pendant 5\ntours.
+
+#org @MOVE_DESC_IONDELUGE
+D\eluge plasmique.\nTransforme les\nattaques Normal en\nattaque Electrik.
+
+#org @MOVE_DESC_LUCKYCHANT
+Emp\tche l'\equipe\nde subir de coups\ncritiques pendant\n5 tours.
+
+#org @MOVE_DESC_MAGNETRISE
+Le lanceur g\en\ere\nun champ\nmagn\etique et\nl\eviter durant\ncinq tours.
+
+#org @MOVE_DESC_MAGNETICFLUX
+Augmente la D\ef et\nla D\ef.Sp\e des\nalli\es dot\es du\ntalent Plus -\nMinus.
+
+#org @MOVE_DESC_POWDER
+Si l'ennemi\nutilise une\nattaque Feu, elle\nlui inflige des\nd\eg\ots.
+
+#org @MOVE_DESC_POWERSPLIT
+Additionne l'Atq et\nl'Atq.Sp\e du lan-\nceur et de sa cible\net les redistribue\n\equitablement.
+
+#org @MOVE_DESC_REFLECTTYPE
+Le lanceur copie\nle type de la\ncible et devient\ndu m\tme type.
+
+#org @MOVE_DESC_SIMPLEBEAM
+Le lanceur envoie\ndes ondes \a\nl'ennemi. Son\ntalent devient\nSimple.
+
+#org @MOVE_DESC_SOAK
+Le lanceur\nprojette beaucoup\nd'eau sur sa\ncible, qui devient\nde type Eau.
+
+#org @MOVE_DESC_TELEKINESIS
+Fait flotter\nl'ennemi pendant 3\ntours, il devient\nplus facile \a\natteindre.
+
+#org @MOVE_DESC_TRICKORTREAT
+Ajoute le type\nSpectre aux types\nactuels de la\ncible.
+
+#org @MOVE_DESC_VENOMDRENCH
+Diminue l'Atq,\nl'Atq.Sp\e et la\nVit de l'ennemi.
+
+#org @MOVE_DESC_FORESTSCURSE
+Le type Plante est\najout\e aux types\nactuels de la\ncible.
+
+#org @MOVE_DESC_MINDBLOWN
+Le lanceur explose\nsa t\tte pour atta-\nquer les cibles au-\ntour de lui,s'in-\nfligeant des d\eg\ots
+
+#org @MOVE_DESC_PHOTONGEYSER
+Attaque avec la\nstatistique\noffensive la plus\nhaute.
+
+#org @MOVE_DESC_PLASMAFISTS
+Convertit les\nattaques Normal en\nattaques \Electrik.
+
+#org @MOVE_DESC_ELECTRIFY
+Si attaque avant la\ncible, les capaci-\nt\es de celle-ci de-\nviendront de\ntype \Electrik.
+
+#org @MOVE_DESC_EMBARGO
+L'adversaire ne\npeut plus utiliser\nl'objet port\e.
+
+#org @MOVE_DESC_FAIRYLOCK
+Emp\tchent tous les\nPok\emons de fuir\nau prochain tour.
+
+#org @MOVE_DESC_LIGHTOFRUIN
+Formidable rayon\nd'\energie.
+
+#org @MOVE_DESC_TRUMPCARD
+La puissance\naugmente lorsque\nles PP diminuent.
+
+#org @MOVE_DESC_AFTERYOU
+S'il est le 1er \a\nagir, le lanceur\npermet \a sa cible\nd'utiliser une cap-\nacit\e juste apr\rs.
+
+#org @MOVE_DESC_INSTRUCT
+Force la cible \a\nlancer\nimm\ediatement la\nderni\rre capacit\e\nqu'elle a utilis\ee.
+
+#org @MOVE_DESC_QUASH
+Retient la cible\nde force,\nl'obligeant \a agir\nen dernier.
+
+#org @MOVE_DESC_HAPPYHOUR
+Utilis\ee pendant\nun combat,\nmultiplie par deux\nl'argent gagn\e \a\nla fin.
+
+#org @MOVE_DESC_DOUBLEIRONBASH
+Le lanceur fait\npivoter ses \ecrous\npour donner deux\ncoups qui peuvent\napeurer.
+
+#org @MOVE_DESC_LASTRESORT
+Cette capacit\e ne\npeut \ttre utilis\ee\nqu'apr\rs que le\nlanceur a utilis\e\ntoutes les autres.
+
+#org @MOVE_DESC_SKYDROP
+Emm\rne l'ennemi\ndans les airs puis\nle j\rte. En l'air,\nil ne peut pas\nattaquer.
+
+#org @MOVE_DESC_CELEBRATE
+Le Pok\emon vous\nsouhaite plein de\nbonnes choses pour\ncet \ev\rnement\nsp\ecial.
+
+#org @MOVE_DESC_HOLDHANDS
+Le lanceur et un\nalli\e se prennent\nla main, ce qui\nles rend heureux.
+
+#org @MOVE_DESC_DYNAMAX_CANNON
+Cette capacit\e\ninflige deux fois\nplus de d\eg\ots si\nla cible est\nDynamax.
+
+#org @MOVE_DESC_SNIPE_SHOT
+Ignore les talents\net les attaques\nvisant \a faire\n\echouer l'attaque.
+
+#org @MOVE_DESC_JAW_LOCK
+D\eclenche un\ncombat en 1V1\njusqu'au KO entre\nle lanceur et sa\ncible.
+
+#org @MOVE_DESC_STUFF_CHEEKS
+Le lanceur mange\nla Baie qu'il\ntient, ce qui\naugmente beaucoup\nsa D\efense.
+
+#org @MOVE_DESC_NO_RETREAT
+Le lanceur voit\ntoutes ses stats\naugmenter et ne\npeut plus se\nretirer du combat.
+
+#org @MOVE_DESC_TAR_SHOT
+Baisser la Vitesse\nde la cible et la\nrend faible au feu.
+
+#org @MOVE_DESC_MAGIC_POWDER
+Le lanceur\nrecouvre sa cible\nd'une poudre\nmagique qui change\nson type en Psy.
+
+#org @MOVE_DESC_DRAGON_DARTS
+Le lanceur attaque\nen propulsant deux\nFantyrm. Attaque\nen deux coups.
+
+#org @MOVE_DESC_TEATIME
+Tous les Pok\emon\nqui tiennent une\nBaie la mangent.
+
+#org @MOVE_DESC_OCTOLOCK
+Emp\tche l'adver-\nsaire de fuir et\nlui baisse sa D\ef\net sa D\ef.Sp\e \a\nchaque tour.
+
+#org @MOVE_DESC_BOLT_BEAK
+Double la\npuissance quand\nutilis\ee en\npremier.
+
+#org @MOVE_DESC_FISHIOUS_REND
+Double la\npuissance quand\nutilis\ee en\npremier.
+
+#org @MOVE_DESC_COURT_CHANGE
+Une force\nintervertit les\neffets affectant\nchaque c\mt\e du\nterrain.
+
+#org @MOVE_DESC_CLANGOROUS_SOUL
+Le lanceur\nsacrifie une\npartie de ses PV\npour augmenter\ntoutes ses stats.
+
+#org @MOVE_DESC_BODY_PRESS
+Utilise sa d\efense\npour attaquer.
+
+#org @MOVE_DESC_DECORATE
+Le lanceur\naugmente beaucoup\nl'Attaque et\nl'Attaque Sp\eciale.
+
+#org @MOVE_DESC_DRUM_BEATING
+Dirige des racines\nsur la cible,\nl'attaquant, et\nbaissant sa Vit.
+
+#org @MOVE_DESC_SNAP_TRAP
+Le lanceur pi\rge\net lui inflige des\nd\eg\ots pendant 4/5\ntours \a sa cible.
+
+#org @MOVE_DESC_PYRO_BALL
+Peut aussi br\uler\nla cible.
+
+#org @MOVE_DESC_BEHEMOTH_BLADE
+Double puissance\nsur un DynaMax.
+
+#org @MOVE_DESC_BEHEMOTH_BASH
+Double puissance\nsur un DynaMax.
+
+#org @MOVE_DESC_AURA_WHEEL
+Le type est\nd\etermin\e par sa\nforme actuelle.\nMonte vitesse.
+
+#org @MOVE_DESC_BREAKING_SWIPE
+Baisse l'Attaque\nde la cible.
+
+#org @MOVE_DESC_BRANCH_POKE
+Attaque sa cible\nen la piquant avec\nune branche\npointue.
+
+#org @MOVE_DESC_OVERDRIVE
+Cr\eer de violentes\nvibrations sonores.
+
+#org @MOVE_DESC_APPLE_ACID
+Attaque son\nadversaire avec un\nliquide corrosif .\nBaisse la D\ef.Sp\e\nde la cible.
+
+#org @MOVE_DESC_GRAV_APPLE
+Attaque son\nadversaire avec\nune pomme. Baisse\nla D\ef de la cible.
+
+#org @MOVE_DESC_SPIRIT_BREAK
+Attaque son\nadversaire avec\nune telle force\nque cela baisse\nson Atq.Sp\e.
+
+#org @MOVE_DESC_STRANGE_STEAM
+Emet de la vapeur\npour attaquer sa\ncible. Peut aussi\nla rendre confuse.
+
+#org @MOVE_DESC_LIFE_DEW
+Projette une eau\nmyst\erieuse sur le\nterrain restaurant\nses PV et ceux des\nalli\es.
+
+#org @MOVE_DESC_OBSTRUCT
+Se prot\rge de tou-\ntes les capacit\es\noffensives. Baisse\nbeaucoup la d\efense\nde l'ennemi.
+
+#org @MOVE_DESC_FALSE_SURRENDER
+Fait semblant de se\nprosterner et util-\nise ses cheveux\npour poignarder sa\ncible.
+
+#org @MOVE_DESC_METEOR_ASSAULT
+Attaque son advers-\naire avec son poir-\neau. Toutefois, il\ndoit se reposer au\ntour suivant.
+
+#org @MOVE_DESC_ETERNABEAM
+Attaque la plus\npuissante d'\Ether-\nnatos sous sa forme\noriginelle. Il se\nreposera ap\rs.
+
+#org @MOVE_DESC_STEEL_BEAM
+Le lanceur concen-\ntre du m\etal issu\nde tout son corps\nen un rayon. Blesse\naussi le lanceur.
+
+#org @MOVE_DESC_EXPANDING_FORCE
+Si un Champ Psychi-\nque est actif, dou-\nble la puissance et\ntouche tous les\nPok\emons pr\esents.
+
+#org @MOVE_DESC_STEEL_ROLLER
+Inflige des d\eg\ots\net fait dispara\q-\ntre le champ actif,\nmaisqui \echoue\ns'il n'y en a pas.
+
+#org @MOVE_DESC_SCALE_SHOT
+Projette des \ecail-\nles de 2 \a 5 fois\nd'affil\ee. Augmente\nla  Vit mais dimi-\nnue la D\ef.
+
+#org @MOVE_DESC_METEOR_BEAM
+Concentre l'\energie\ncosmique au 1er\ntour, ce qui monte\nson Atq.Sp\e, et\nfrappe au second.
+
+#org @MOVE_DESC_SHELL_SIDE_ARM
+Devient phys ou sp\e\nselon les atqs\ndu lanceur et les\nd\efs de la cible.\nPeut empoisonner.
+
+#org @MOVE_DESC_MISTY_EXPLOSION
+Frappe tous les\nPok\emons autour de\nlui en explosant,\ndouble puiss. sur\nterrain brumeux.
+
+#org @MOVE_DESC_GRASSY_GLIDE
+Attaque l'ennemi en\nglissant sur le\nterrain.Frappe tou-\njours en priorit\e\nsur Champ Herbu.
+
+#org @MOVE_DESC_RISING_VOLTAGE
+La puissance de\ncette attaque est\ndoubl\ee si la\ncible est sur un\nChamp \Electrifi\e.
+
+#org @MOVE_DESC_TERRAIN_PULSE
+Tire sa force des\nchamps. Son type\net sa puissance\nvarient selon le\nchamp actif.
+
+#org @MOVE_DESC_SKITTER_SMACK
+Rampe derri\rre\nl'ennemi pour\nl'attaquer. Baisse\nl'Attaque Sp\eciale\nde la cible.
+
+#org @MOVE_DESC_BURNING_JEALOUSY
+Cette capacit\e\nbr\ule tout Pok\emon\ndont les stats ont\naugment\e pendant\nce tour.
+
+#org @MOVE_DESC_LASH_OUT
+Si les stats du\nlanceur ont\ndiminu\e pendant ce\ntour, la puissance\ndouble.
+
+#org @MOVE_DESC_POLTERGEIST
+Manipule l'objet\ntenu par l'ennemi\npour l'attaquer.\n\Echoue s'il ne\ntient rien.
+
+#org @MOVE_DESC_CORROSIVE_GAS
+Un gaz corrosif\nqui enveloppe tous\nles Pok\emons et\ndissout les objets\nqu'ils tiennent.
+
+#org @MOVE_DESC_COACHING
+Le lanceur coache\nses alli\ees,\naugmentant ainsi\nleur Attaque et\nleur D\efense.
+
+#org @MOVE_DESC_FLIP_TURN
+Apr\rs son attaque,\nle lanceur \echange\nsa place avec un\nalli\e.
+
+#org @MOVE_DESC_TRIPLE_AXEL
+Une salve compos\ee\nde un \a trois coups\nde pied dont la\npuissance augmente\n\a chaque coups.
+
+#org @MOVE_DESC_DUAL_WINGBEAT
+Le lanceur frappe\nl'ennemi avec ses\nailes deux fois\nd'affil\ee.
+
+#org @MOVE_DESC_SCORCHING_SANDS
+Projette du sable\nchauff\e \a blanc\nsur l'ennemi. Peut\naussi br\uler la\ncible.
+
+#org @MOVE_DESC_JUNGLE_HEALING
+Restaure 25% des PV\nMax du lanceur et\nson alli\e,et soig-\nne les probl\rmes de\nstatut.
+
+#org @MOVE_DESC_WICKED_BLOW
+Ass\rne un coup\npuissant \a\nl'ennemi. Inflige\ntoujours un coup\ncritique.
+
+#org @MOVE_DESC_SURGING_STRIKES
+Ass\rne trois coups\nfluides \a\nl'ennemi. Inflige\ntoujours un coup\ncritique.
+
+#org @MOVE_DESC_FREEZING_GLARE
+Les yeux du\nlanceur tirent des\nrayons psychiques.\nPeut aussi geler\nl'ennemi.
+
+#org @MOVE_DESC_THUNDEROUS_KICK
+Ass\rne un coup de\npied \a la cible \a\nla vitesse de\nl'\eclair et Baisse\nsa d\efense.
+
+#org @MOVE_DESC_FIERY_WRATH
+Le lanceur\ncanalise sa col\rre\net la transforme\nen aura br\ulante.\nPeut apeurer.
+
+#org @MOVE_DESC_THUNDER_CAGE
+Frappe l'ennemi,\net le pi\rge dans\nune prison \electri-\nque qui dure de 4 \a\n5 tours.
+
+#org @MOVE_DESC_DRAGON_ENERGY
+Utilise son \energie\nvitale pour atta-\nquer. La puissance\nest bas\ee sur les\nPV restants.

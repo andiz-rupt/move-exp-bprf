@@ -1,0 +1,9 @@
+#examples:
+#SetTradedMonPokedexFlags 080507A0 1
+
+## Pour remplacer les anciennes fonctions
+GiveBoxMonInitialMoveset 0803E8B8 1
+MonTryLearningNewMove 0803E960 2
+GetMoveRelearnerMoves 08043B5C 2
+GetLevelUpMovesBySpecies 08043CAC 2
+GetNumberOfRelearnableMoves 08043D04 1

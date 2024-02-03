@@ -1,0 +1,2223 @@
+MAX_LENGTH=12
+FILL_FF=True
+
+#org @gMoveNames
+#org @MOVE_NAME_NONE
+-
+
+#org @MOVE_NAME_POUND
+\Ecras'Face
+
+#org @MOVE_NAME_KARATE_CHOP
+Poing Karat\e
+
+#org @MOVE_NAME_DOUBLESLAP
+Torgnoles
+
+#org @MOVE_NAME_COMET_PUNCH
+Poing Com\rte
+
+#org @MOVE_NAME_MEGA_PUNCH
+Ultimapoing
+
+#org @MOVE_NAME_PAY_DAY
+Jackpot
+
+#org @MOVE_NAME_FIRE_PUNCH
+Poing Feu
+
+#org @MOVE_NAME_ICE_PUNCH
+Poing Glace
+
+#org @MOVE_NAME_THUNDERPUNCH
+Poing \Eclair
+
+#org @MOVE_NAME_SCRATCH
+Griffe
+
+#org @MOVE_NAME_VISE_GRIP
+Force Poigne
+
+#org @MOVE_NAME_GUILLOTINE
+Guillotine
+
+#org @MOVE_NAME_RAZOR_WIND
+Coupe-Vent
+
+#org @MOVE_NAME_SWORDS_DANCE
+Danse Lames
+
+#org @MOVE_NAME_CUT
+Coupe
+
+#org @MOVE_NAME_GUST
+Tornade
+
+#org @MOVE_NAME_WING_ATTACK
+Cru-Ailes
+
+#org @MOVE_NAME_WHIRLWIND
+Cyclone
+
+#org @MOVE_NAME_FLY
+Vol
+
+#org @MOVE_NAME_BIND
+\Etreinte
+
+#org @MOVE_NAME_SLAM
+Souplesse
+
+#org @MOVE_NAME_VINE_WHIP
+Fouet Lianes
+
+#org @MOVE_NAME_STOMP
+\Ecrasement
+
+#org @MOVE_NAME_DOUBLE_KICK
+Double Pied
+
+#org @MOVE_NAME_MEGA_KICK
+Ultimawashi
+
+#org @MOVE_NAME_JUMP_KICK
+Pied Saut\e
+
+#org @MOVE_NAME_ROLLING_KICK
+Mawashi Geri
+
+#org @MOVE_NAME_SAND_ATTACK
+Jet de Sable
+
+#org @MOVE_NAME_HEADBUTT
+Coup d'Boule
+
+#org @MOVE_NAME_HORN_ATTACK
+Koud'Korne
+
+#org @MOVE_NAME_FURY_ATTACK
+Furie
+
+#org @MOVE_NAME_HORN_DRILL
+Empal'Korne
+
+#org @MOVE_NAME_TACKLE
+Charge
+
+#org @MOVE_NAME_BODY_SLAM
+Plaquage
+
+#org @MOVE_NAME_WRAP
+Ligotage
+
+#org @MOVE_NAME_TAKE_DOWN
+B\elier
+
+#org @MOVE_NAME_THRASH
+Mania
+
+#org @MOVE_NAME_DOUBLE_EDGE
+Damocl\rs
+
+#org @MOVE_NAME_TAIL_WHIP
+Mimi-Queue
+
+#org @MOVE_NAME_POISON_STING
+Dard-Venin
+
+#org @MOVE_NAME_TWINEEDLE
+Double-Dard
+
+#org @MOVE_NAME_PIN_MISSILE
+Dard-Nu\ee
+
+#org @MOVE_NAME_LEER
+Groz'Yeux
+
+#org @MOVE_NAME_BITE
+Morsure
+
+#org @MOVE_NAME_GROWL
+Rugissement
+
+#org @MOVE_NAME_ROAR
+Hurlement
+
+#org @MOVE_NAME_SING
+Berceuse
+
+#org @MOVE_NAME_SUPERSONIC
+Ultrason
+
+#org @MOVE_NAME_SONIC_BOOM
+Sonic Boom
+
+#org @MOVE_NAME_DISABLE
+Entrave
+
+#org @MOVE_NAME_ACID
+Acide
+
+#org @MOVE_NAME_EMBER
+Flamm\rche
+
+#org @MOVE_NAME_FLAMETHROWER
+Lance-Flamme
+
+#org @MOVE_NAME_MIST
+Brume
+
+#org @MOVE_NAME_WATER_GUN
+Pistolet \a O
+
+#org @MOVE_NAME_HYDRO_PUMP
+Hydrocanon
+
+#org @MOVE_NAME_SURF
+Surf
+
+#org @MOVE_NAME_ICE_BEAM
+Laser Glace
+
+#org @MOVE_NAME_BLIZZARD
+Blizzard
+
+#org @MOVE_NAME_PSYBEAM
+Rafale Psy
+
+#org @MOVE_NAME_BUBBLE_BEAM
+Bulles d'O
+
+#org @MOVE_NAME_AURORA_BEAM
+Onde Bor\eale
+
+#org @MOVE_NAME_HYPER_BEAM
+Ultralaser
+
+#org @MOVE_NAME_PECK
+Picpic
+
+#org @MOVE_NAME_DRILL_PECK
+Bec Vrille
+
+#org @MOVE_NAME_SUBMISSION
+Sacrifice
+
+#org @MOVE_NAME_LOW_KICK
+Balayage
+
+#org @MOVE_NAME_COUNTER
+Riposte
+
+#org @MOVE_NAME_SEISMIC_TOSS
+Frappe Atlas
+
+#org @MOVE_NAME_STRENGTH
+Force
+
+#org @MOVE_NAME_ABSORB
+Vole-Vie
+
+#org @MOVE_NAME_MEGA_DRAIN
+M\ega-Sangsue
+
+#org @MOVE_NAME_LEECH_SEED
+Vampigraine
+
+#org @MOVE_NAME_GROWTH
+Croissance
+
+#org @MOVE_NAME_RAZOR_LEAF
+Tranch'Herbe
+
+#org @MOVE_NAME_SOLAR_BEAM
+Lance-Soleil
+
+#org @MOVE_NAME_POISONPOWDER
+Poudre Toxik
+
+#org @MOVE_NAME_STUN_SPORE
+Para-Spore
+
+#org @MOVE_NAME_SLEEP_POWDER
+Poudre Dodo
+
+#org @MOVE_NAME_PETAL_DANCE
+Danse Fleurs
+
+#org @MOVE_NAME_STRING_SHOT
+S\ecr\etion
+
+#org @MOVE_NAME_DRAGON_RAGE
+Draco-Rage
+
+#org @MOVE_NAME_FIRE_SPIN
+Danse Flamme
+
+#org @MOVE_NAME_THUNDERSHOCK
+\Eclair
+
+#org @MOVE_NAME_THUNDERBOLT
+Tonnerre
+
+#org @MOVE_NAME_THUNDER_WAVE
+Cage \eclair
+
+#org @MOVE_NAME_THUNDER
+Fatal-Foudre
+
+#org @MOVE_NAME_ROCK_THROW
+Jet-Pierres
+
+#org @MOVE_NAME_EARTHQUAKE
+S\eisme
+
+#org @MOVE_NAME_FISSURE
+Ab\qme
+
+#org @MOVE_NAME_DIG
+Tunnel
+
+#org @MOVE_NAME_TOXIC
+Toxik
+
+#org @MOVE_NAME_CONFUSION
+Choc Mental
+
+#org @MOVE_NAME_PSYCHIC
+Psycko
+
+#org @MOVE_NAME_HYPNOSIS
+Hypnose
+
+#org @MOVE_NAME_MEDITATE
+Yoga
+
+#org @MOVE_NAME_AGILITY
+H\ote
+
+#org @MOVE_NAME_QUICK_ATTACK
+Vive-Attaque
+
+#org @MOVE_NAME_RAGE
+Fr\en\esie
+
+#org @MOVE_NAME_TELEPORT
+T\el\eport
+
+#org @MOVE_NAME_NIGHT_SHADE
+T\en\rbres
+
+#org @MOVE_NAME_MIMIC
+Copie
+
+#org @MOVE_NAME_SCREECH
+Grincement
+
+#org @MOVE_NAME_DOUBLE_TEAM
+Reflet
+
+#org @MOVE_NAME_RECOVER
+Soin
+
+#org @MOVE_NAME_HARDEN
+Armure
+
+#org @MOVE_NAME_MINIMIZE
+Lilliput
+
+#org @MOVE_NAME_SMOKESCREEN
+Brouillard
+
+#org @MOVE_NAME_CONFUSE_RAY
+Onde Folie
+
+#org @MOVE_NAME_WITHDRAW
+Repli
+
+#org @MOVE_NAME_DEFENSE_CURL
+Boul'Armure
+
+#org @MOVE_NAME_BARRIER
+Bouclier
+
+#org @MOVE_NAME_LIGHT_SCREEN
+Mur Lumi\rre
+
+#org @MOVE_NAME_HAZE
+Bu\ee Noire
+
+#org @MOVE_NAME_REFLECT
+Protection
+
+#org @MOVE_NAME_FOCUS_ENERGY
+Puissance
+
+#org @MOVE_NAME_BIDE
+Patience
+
+#org @MOVE_NAME_METRONOME
+M\etronome
+
+#org @MOVE_NAME_MIRROR_MOVE
+Mimique
+
+#org @MOVE_NAME_SELFDESTRUCT
+Destruction
+
+#org @MOVE_NAME_EGG_BOMB
+Bombe \Xuf
+
+#org @MOVE_NAME_LICK
+L\echouille
+
+#org @MOVE_NAME_SMOG
+Pur\edpois
+
+#org @MOVE_NAME_SLUDGE
+D\etritus
+
+#org @MOVE_NAME_BONE_CLUB
+Massd'Os
+
+#org @MOVE_NAME_FIRE_BLAST
+D\eflagration
+
+#org @MOVE_NAME_WATERFALL
+Cascade
+
+#org @MOVE_NAME_CLAMP
+Claquoir
+
+#org @MOVE_NAME_SWIFT
+M\et\eores
+
+#org @MOVE_NAME_SKULL_BASH
+Coud'Kr\one
+
+#org @MOVE_NAME_SPIKE_CANNON
+Picanon
+
+#org @MOVE_NAME_CONSTRICT
+Constriction
+
+#org @MOVE_NAME_AMNESIA
+Amn\esie
+
+#org @MOVE_NAME_KINESIS
+T\el\ekin\esie
+
+#org @MOVE_NAME_SOFT_BOILED
+E-Coque
+
+#org @MOVE_NAME_HI_JUMP_KICK
+Pied Voltige
+
+#org @MOVE_NAME_GLARE
+Intimidation
+
+#org @MOVE_NAME_DREAM_EATER
+D\evor\tve
+
+#org @MOVE_NAME_POISON_GAS
+Gaz Toxik
+
+#org @MOVE_NAME_BARRAGE
+Pilonnage
+
+#org @MOVE_NAME_LEECH_LIFE
+Vampirisme
+
+#org @MOVE_NAME_LOVELY_KISS
+Grobisou
+
+#org @MOVE_NAME_SKY_ATTACK
+Piqu\e
+
+#org @MOVE_NAME_TRANSFORM
+Morphing
+
+#org @MOVE_NAME_BUBBLE
+\Ecume
+
+#org @MOVE_NAME_DIZZY_PUNCH
+Uppercut
+
+#org @MOVE_NAME_SPORE
+Spore
+
+#org @MOVE_NAME_FLASH
+Flash
+
+#org @MOVE_NAME_PSYWAVE
+Vague Psy
+
+#org @MOVE_NAME_SPLASH
+Trempette
+
+#org @MOVE_NAME_ACID_ARMOR
+Acidarmure
+
+#org @MOVE_NAME_CRABHAMMER
+Pince-Masse
+
+#org @MOVE_NAME_EXPLOSION
+\Explosion
+
+#org @MOVE_NAME_FURY_SWIPES
+Combo-Griffe
+
+#org @MOVE_NAME_BONEMERANG
+Osmerang
+
+#org @MOVE_NAME_REST
+Repos
+
+#org @MOVE_NAME_ROCK_SLIDE
+Rock Slide
+
+#org @MOVE_NAME_HYPER_FANG
+Croc de Mort
+
+#org @MOVE_NAME_SHARPEN
+Aff\utage
+
+#org @MOVE_NAME_CONVERSION
+Conversion
+
+#org @MOVE_NAME_TRI_ATTACK
+Triplattaque
+
+#org @MOVE_NAME_SUPER_FANG
+Croc Fatal
+
+#org @MOVE_NAME_SLASH
+Tranche
+
+#org @MOVE_NAME_SUBSTITUTE
+Clonage
+
+#org @MOVE_NAME_STRUGGLE
+Lutte
+
+#org @MOVE_NAME_SKETCH
+Gribouille
+
+#org @MOVE_NAME_TRIPLE_KICK
+Triple Pied
+
+#org @MOVE_NAME_THIEF
+Larcin
+
+#org @MOVE_NAME_SPIDER_WEB
+Toile
+
+#org @MOVE_NAME_MIND_READER
+Lire-Esprit
+
+#org @MOVE_NAME_NIGHTMARE
+Cauchemar
+
+#org @MOVE_NAME_FLAME_WHEEL
+Roue de Feu
+
+#org @MOVE_NAME_SNORE
+Ronflement
+
+#org @MOVE_NAME_CURSE
+Mal\ediction
+
+#org @MOVE_NAME_FLAIL
+Gigotage
+
+#org @MOVE_NAME_CONVERSION_2
+Conversion 2
+
+#org @MOVE_NAME_AEROBLAST
+A\eroblast
+
+#org @MOVE_NAME_COTTON_SPORE
+Spore Coton
+
+#org @MOVE_NAME_REVERSAL
+Contre
+
+#org @MOVE_NAME_SPITE
+D\epit
+
+#org @MOVE_NAME_POWDER_SNOW
+Poudreuse
+
+#org @MOVE_NAME_PROTECT
+Abri
+
+#org @MOVE_NAME_MACH_PUNCH
+Mach Punch
+
+#org @MOVE_NAME_SCARY_FACE
+Grimace
+
+#org @MOVE_NAME_FEINT_ATTACK
+Feinte
+
+#org @MOVE_NAME_SWEET_KISS
+Doux Baiser
+
+#org @MOVE_NAME_BELLY_DRUM
+Cognobidon
+
+#org @MOVE_NAME_SLUDGE_BOMB
+Bombe Beurk
+
+#org @MOVE_NAME_MUD_SLAP
+Coud'Boue
+
+#org @MOVE_NAME_OCTAZOOKA
+Octazooka
+
+#org @MOVE_NAME_SPIKES
+Picots
+
+#org @MOVE_NAME_ZAP_CANNON
+\Elecanon
+
+#org @MOVE_NAME_FORESIGHT
+Clairvoyance
+
+#org @MOVE_NAME_DESTINY_BOND
+Prlvt Destin
+
+#org @MOVE_NAME_PERISH_SONG
+Requiem
+
+#org @MOVE_NAME_ICY_WIND
+Vent Glace
+
+#org @MOVE_NAME_DETECT
+D\etection
+
+#org @MOVE_NAME_BONE_RUSH
+Charge Os
+
+#org @MOVE_NAME_LOCK_ON
+Verrouillage
+
+#org @MOVE_NAME_OUTRAGE
+Col\rre
+
+#org @MOVE_NAME_SANDSTORM
+Temp\ttesable
+
+#org @MOVE_NAME_GIGA_DRAIN
+Giga-Sangsue
+
+#org @MOVE_NAME_ENDURE
+T\enacit\e
+
+#org @MOVE_NAME_CHARM
+Charme
+
+#org @MOVE_NAME_ROLLOUT
+Roulade
+
+#org @MOVE_NAME_FALSE_SWIPE
+Faux-Chage
+
+#org @MOVE_NAME_SWAGGER
+Vantardise
+
+#org @MOVE_NAME_MILK_DRINK
+Lait \a Boire
+
+#org @MOVE_NAME_SPARK
+\Etincelle
+
+#org @MOVE_NAME_FURY_CUTTER
+Taillade
+
+#org @MOVE_NAME_STEEL_WING
+Aile d'Acier
+
+#org @MOVE_NAME_MEAN_LOOK
+Regard Noir
+
+#org @MOVE_NAME_ATTRACT
+Attraction
+
+#org @MOVE_NAME_SLEEP_TALK
+Blabla Dodo
+
+#org @MOVE_NAME_HEAL_BELL
+Glas de Soin
+
+#org @MOVE_NAME_RETURN
+Retour
+
+#org @MOVE_NAME_PRESENT
+Cadeau
+
+#org @MOVE_NAME_FRUSTRATION
+Frustration
+
+#org @MOVE_NAME_SAFEGUARD
+Rune Protect
+
+#org @MOVE_NAME_PAIN_SPLIT
+Balance
+
+#org @MOVE_NAME_SACRED_FIRE
+Feu Sacr\e
+
+#org @MOVE_NAME_MAGNITUDE
+Ampleur
+
+#org @MOVE_NAME_DYNAMICPUNCH
+Dynamopoing
+
+#org @MOVE_NAME_MEGAHORN
+M\egacorne
+
+#org @MOVE_NAME_DRAGONBREATH
+Dracosouffle
+
+#org @MOVE_NAME_BATON_PASS
+Relais
+
+#org @MOVE_NAME_ENCORE
+Encore
+
+#org @MOVE_NAME_PURSUIT
+Poursuite
+
+#org @MOVE_NAME_RAPID_SPIN
+Tour Rapide
+
+#org @MOVE_NAME_SWEET_SCENT
+Doux Parfum
+
+#org @MOVE_NAME_IRON_TAIL
+Queue de Fer
+
+#org @MOVE_NAME_METAL_CLAW
+Griffe Acier
+
+#org @MOVE_NAME_VITAL_THROW
+Corps Perdu
+
+#org @MOVE_NAME_MORNING_SUN
+Aurore
+
+#org @MOVE_NAME_SYNTHESIS
+Synth\rse
+
+#org @MOVE_NAME_MOONLIGHT
+Rayon Lune
+
+#org @MOVE_NAME_HIDDEN_POWER
+Puis. Cach\ee
+
+#org @MOVE_NAME_CROSS_CHOP
+Coup Croix
+
+#org @MOVE_NAME_TWISTER
+Ouragan
+
+#org @MOVE_NAME_RAIN_DANCE
+Danse Pluie
+
+#org @MOVE_NAME_SUNNY_DAY
+Z\enith
+
+#org @MOVE_NAME_CRUNCH
+M\ochouille
+
+#org @MOVE_NAME_MIRROR_COAT
+Voile Miroir
+
+#org @MOVE_NAME_PSYCH_UP
+Boost
+
+#org @MOVE_NAME_EXTREMESPEED
+Vit.Extr\tme
+
+#org @MOVE_NAME_ANCIENTPOWER
+Pouv.Antique
+
+#org @MOVE_NAME_SHADOW_BALL
+Ball'Ombre
+
+#org @MOVE_NAME_FUTURE_SIGHT
+Prescience
+
+#org @MOVE_NAME_ROCK_SMASH
+\Eclate-Roc
+
+#org @MOVE_NAME_WHIRLPOOL
+Siphon
+
+#org @MOVE_NAME_BEAT_UP
+Baston
+
+#org @MOVE_NAME_FAKE_OUT
+Bluff
+
+#org @MOVE_NAME_UPROAR
+Brouhaha
+
+#org @MOVE_NAME_STOCKPILE
+Stockage
+
+#org @MOVE_NAME_SPIT_UP
+Rel\oche
+
+#org @MOVE_NAME_SWALLOW
+Avale
+
+#org @MOVE_NAME_HEAT_WAVE
+Canicule
+
+#org @MOVE_NAME_HAIL
+Gr\tle
+
+#org @MOVE_NAME_TORMENT
+Tourmente
+
+#org @MOVE_NAME_FLATTER
+Flatterie
+
+#org @MOVE_NAME_WILL_O_WISP
+Feu Follet
+
+#org @MOVE_NAME_MEMENTO
+Souvenir
+
+#org @MOVE_NAME_FACADE
+Fa\cade
+
+#org @MOVE_NAME_FOCUS_PUNCH
+Mitra-Poing
+
+#org @MOVE_NAME_SMELLINGSALT
+Stimulant
+
+#org @MOVE_NAME_FOLLOW_ME
+Par Ici
+
+#org @MOVE_NAME_NATURE_POWER
+Force-Nature
+
+#org @MOVE_NAME_CHARGE
+Chargeur
+
+#org @MOVE_NAME_TAUNT
+Provoc
+
+#org @MOVE_NAME_HELPING_HAND
+Coup d'Main
+
+#org @MOVE_NAME_TRICK
+Tourmagik
+
+#org @MOVE_NAME_ROLE_PLAY
+Imitation
+
+#org @MOVE_NAME_WISH
+V\yu
+
+#org @MOVE_NAME_ASSIST
+Assistance
+
+#org @MOVE_NAME_INGRAIN
+Racines
+
+#org @MOVE_NAME_SUPERPOWER
+Surpuissance
+
+#org @MOVE_NAME_MAGIC_COAT
+Reflet Magik
+
+#org @MOVE_NAME_RECYCLE
+Recyclage
+
+#org @MOVE_NAME_REVENGE
+Vendetta
+
+#org @MOVE_NAME_BRICK_BREAK
+Casse-Brique
+
+#org @MOVE_NAME_YAWN
+B\oillement
+
+#org @MOVE_NAME_KNOCK_OFF
+Sabotage
+
+#org @MOVE_NAME_ENDEAVOR
+Effort
+
+#org @MOVE_NAME_ERUPTION
+\Eruption
+
+#org @MOVE_NAME_SKILL_SWAP
+\echange
+
+#org @MOVE_NAME_IMPRISON
+Possessif
+
+#org @MOVE_NAME_REFRESH
+R\eg\en\eration
+
+#org @MOVE_NAME_GRUDGE
+Rancune
+
+#org @MOVE_NAME_SNATCH
+Saisie
+
+#org @MOVE_NAME_SECRET_POWER
+Force Cach\ee
+
+#org @MOVE_NAME_DIVE
+Plong\ee
+
+#org @MOVE_NAME_ARM_THRUST
+Cogne
+
+#org @MOVE_NAME_CAMOUFLAGE
+Camouflage
+
+#org @MOVE_NAME_TAIL_GLOW
+Lumi-Queue
+
+#org @MOVE_NAME_LUSTER_PURGE
+Lumi-\Eclat
+
+#org @MOVE_NAME_MIST_BALL
+Ball'Brume
+
+#org @MOVE_NAME_FEATHERDANCE
+Danse-Plume
+
+#org @MOVE_NAME_TEETER_DANCE
+Danse Folle
+
+#org @MOVE_NAME_BLAZE_KICK
+Pied Br\uleur
+
+#org @MOVE_NAME_MUD_SPORT
+Lance-Boue
+
+#org @MOVE_NAME_ICE_BALL
+Ball'Glace
+
+#org @MOVE_NAME_NEEDLE_ARM
+Poing Dard
+
+#org @MOVE_NAME_SLACK_OFF
+Paresse
+
+#org @MOVE_NAME_HYPER_VOICE
+M\egaphone
+
+#org @MOVE_NAME_POISON_FANG
+Crochetvenin
+
+#org @MOVE_NAME_CRUSH_CLAW
+\Eclategriffe
+
+#org @MOVE_NAME_BLAST_BURN
+Rafale Feu
+
+#org @MOVE_NAME_HYDRO_CANNON
+Hydroblast
+
+#org @MOVE_NAME_METEOR_MASH
+Poing M\et\eor
+
+#org @MOVE_NAME_ASTONISH
+\Etonnement
+
+#org @MOVE_NAME_WEATHER_BALL
+Ball'M\et\eo
+
+#org @MOVE_NAME_AROMATHERAPY
+Aromath\erapi
+
+#org @MOVE_NAME_FAKE_TEARS
+Croco Larme
+
+#org @MOVE_NAME_AIR_CUTTER
+Tranch'Air
+
+#org @MOVE_NAME_OVERHEAT
+Surchauffe
+
+#org @MOVE_NAME_ODOR_SLEUTH
+Flair
+
+#org @MOVE_NAME_ROCK_TOMB
+Tomberoche
+
+#org @MOVE_NAME_SILVER_WIND
+Vent Argent\e
+
+#org @MOVE_NAME_METAL_SOUND
+Strido-Son
+
+#org @MOVE_NAME_GRASSWHISTLE
+Siffl'Herbe
+
+#org @MOVE_NAME_TICKLE
+Chatouille
+
+#org @MOVE_NAME_COSMIC_POWER
+Force Cosmik
+
+#org @MOVE_NAME_WATER_SPOUT
+Gicl\edo
+
+#org @MOVE_NAME_SIGNAL_BEAM
+Rayon Signal
+
+#org @MOVE_NAME_SHADOW_PUNCH
+Poing Ombre
+
+#org @MOVE_NAME_EXTRASENSORY
+Extrasenseur
+
+#org @MOVE_NAME_SKY_UPPERCUT
+Stratopercut
+
+#org @MOVE_NAME_SAND_TOMB
+Tourbi-Sable
+
+#org @MOVE_NAME_SHEER_COLD
+Glaciation
+
+#org @MOVE_NAME_MUDDY_WATER
+Ocroupi
+
+#org @MOVE_NAME_BULLET_SEED
+Balle Graine
+
+#org @MOVE_NAME_AERIAL_ACE
+A\eropique
+
+#org @MOVE_NAME_ICICLE_SPEAR
+Stalactite
+
+#org @MOVE_NAME_IRON_DEFENSE
+Mur de Fer
+
+#org @MOVE_NAME_BLOCK
+Barrage
+
+#org @MOVE_NAME_HOWL
+Grondement
+
+#org @MOVE_NAME_DRAGON_CLAW
+Dracogriffe
+
+#org @MOVE_NAME_FRENZY_PLANT
+V\eg\e-Attak
+
+#org @MOVE_NAME_BULK_UP
+Gonflette
+
+#org @MOVE_NAME_BOUNCE
+Rebond
+
+#org @MOVE_NAME_MUD_SHOT
+Tir de Boue
+
+#org @MOVE_NAME_POISON_TAIL
+Queue-Poison
+
+#org @MOVE_NAME_COVET
+Implore
+
+#org @MOVE_NAME_VOLT_TACKLE
+\Electacle
+
+#org @MOVE_NAME_MAGICAL_LEAF
+Feuillemagik
+
+#org @MOVE_NAME_WATER_SPORT
+Tourniquet
+
+#org @MOVE_NAME_CALM_MIND
+Pl\enitude
+
+#org @MOVE_NAME_LEAF_BLADE
+Lame-Feuille
+
+#org @MOVE_NAME_DRAGON_DANCE
+Danse Draco
+
+#org @MOVE_NAME_ROCK_BLAST
+Boule Roc
+
+#org @MOVE_NAME_SHOCK_WAVE
+Onde de Choc
+
+#org @MOVE_NAME_WATER_PULSE
+Vibraqua
+
+#org @MOVE_NAME_DOOM_DESIRE
+Carnareket
+
+#org @MOVE_NAME_PSYCHO_BOOST
+Psycho Boost
+
+#org @MOVE_NAME_LEECH_FANG
+Leech Fang
+
+#org @MOVE_NAME_AIR_SLASH
+Lame d'Air
+
+#org @MOVE_NAME_AQUA_JET
+Aqua-Jet
+
+#org @MOVE_NAME_AQUA_TAIL
+Hydroqueue
+
+#org @MOVE_NAME_AURA_SPHERE
+Aurasph\rre
+
+#org @MOVE_NAME_AVALANCHE
+Avalanche
+
+#org @MOVE_NAME_BRAVE_BIRD
+Rapace
+
+#org @MOVE_NAME_BUG_BUZZ
+Bourdon
+
+#org @MOVE_NAME_BULLET_PUNCH
+Pisto-Poing
+
+#org @MOVE_NAME_CHARGE_BEAM
+Rayon Charg\e
+
+#org @MOVE_NAME_CLOSE_COMBAT
+Close Combat
+
+#org @MOVE_NAME_CROSS_POISON
+Poison-Croix
+
+#org @MOVE_NAME_DARK_PULSE
+Vibrobscur
+
+#org @MOVE_NAME_DISCHARGE
+Coup d'Jus
+
+#org @MOVE_NAME_DRACO_METEOR
+Draco M\et\eor
+
+#org @MOVE_NAME_DRAGON_PULSE
+Draco-Choc
+
+#org @MOVE_NAME_DRAIN_PUNCH
+Vampi-Poing
+
+#org @MOVE_NAME_EARTH_POWER
+Telluriforce
+
+#org @MOVE_NAME_ENERGY_BALL
+\Eco-Sph\rre
+
+#org @MOVE_NAME_FOCUS_BLAST
+Exploforce
+
+#org @MOVE_NAME_FORCE_PALM
+Forte-Paume
+
+#org @MOVE_NAME_GIGA_IMPACT
+Giga Impact
+
+#org @MOVE_NAME_GRASS_KNOT
+N\yud Herbe
+
+#org @MOVE_NAME_GUNK_SHOT
+D\etricanon
+
+#org @MOVE_NAME_HAMMER_ARM
+Marto-Poing
+
+#org @MOVE_NAME_HEAD_SMASH
+Fracass'T\tte
+
+#org @MOVE_NAME_ICE_SHARD
+\Eclats Glace
+
+#org @MOVE_NAME_IRON_HEAD
+T\tte de Fer
+
+#org @MOVE_NAME_LAVA_PLUME
+\Ebullilave
+
+#org @MOVE_NAME_MAGNET_BOMB
+Bombaimant
+
+#org @MOVE_NAME_MUD_BOMB
+Boue-Bombe
+
+#org @MOVE_NAME_NASTY_PLOT
+Machination
+
+#org @MOVE_NAME_NIGHT_SLASH
+Tranche-Nuit
+
+#org @MOVE_NAME_OMINOUS_WIND
+Vent Mauvais
+
+#org @MOVE_NAME_POWER_GEM
+Rayon Gemme
+
+#org @MOVE_NAME_POWER_WHIP
+M\egafouet
+
+#org @MOVE_NAME_PSYCHO_CUT
+Coupe Psycho
+
+#org @MOVE_NAME_ROCK_CLIMB
+Escalade
+
+#org @MOVE_NAME_ROCK_POLISH
+Poliroche
+
+#org @MOVE_NAME_ROCK_WRECKER
+Roc-Boulet
+
+#org @MOVE_NAME_ROOST
+Atterrissage
+
+#org @MOVE_NAME_SEED_BOMB
+Canon Graine
+
+#org @MOVE_NAME_SHADOW_CLAW
+Griffe Ombre
+
+#org @MOVE_NAME_SHADOW_SNEAK
+Ombre Port\ee
+
+#org @MOVE_NAME_VACUUM_WAVE
+Onde Vide
+
+#org @MOVE_NAME_X_SCISSOR
+Plaie Croix
+
+#org @MOVE_NAME_ZEN_HEADBUTT
+Psykoud'Boul
+
+#org @MOVE_NAME_SWITCHEROO
+Passe-Passe
+
+#org @MOVE_NAME_DRILL_RUN
+Tunnelier
+
+#org @MOVE_NAME_BULLDOZE
+Pi\etisol
+
+#org @MOVE_NAME_ELECTROWEB
+Toile \elek
+
+#org @MOVE_NAME_FLAME_CHARGE
+Nitrocharge
+
+#org @MOVE_NAME_FROST_BREATH
+Souff. Glac\e
+
+#org @MOVE_NAME_HEART_STAMP
+Cr\rve-C\yur
+
+#org @MOVE_NAME_HONE_CLAWS
+Aiguisage
+
+#org @MOVE_NAME_HORN_LEECH
+Encornebois
+
+#org @MOVE_NAME_COIL
+Enroulement
+
+#org @MOVE_NAME_HURRICANE
+Vent Violent
+
+#org @MOVE_NAME_ICICLE_CRASH
+Chute Glace
+
+#org @MOVE_NAME_WORK_UP
+Rengorgement
+
+#org @MOVE_NAME_QUIVER_DANCE
+Papillodanse
+
+#org @MOVE_NAME_LEAF_TORNADO
+Phytomixeur
+
+#org @MOVE_NAME_LOW_SWEEP
+Balayette
+
+#org @MOVE_NAME_SNARL
+Aboiement
+
+#org @MOVE_NAME_STRUGGLE_BUG
+Survinsecte
+
+#org @MOVE_NAME_STEAMROLLER
+Bulldoboule
+
+#org @MOVE_NAME_STORM_THROW
+Yama Arashi
+
+#org @MOVE_NAME_VENOSHOCK
+Choc Venin
+
+#org @MOVE_NAME_WILD_CHARGE
+\Eclair Fou
+
+#org @MOVE_NAME_POISON_JAB
+Direct Toxik
+
+#org @MOVE_NAME_ACID_SPRAY
+Bombe Acide
+
+#org @MOVE_NAME_FIERY_DANCE
+Danse du Feu
+
+#org @MOVE_NAME_CLEAR_SMOG
+Bain de Smog
+
+#org @MOVE_NAME_LEAF_STORM
+Temp\tteverte
+
+#org @MOVE_NAME_STONE_EDGE
+Lame de Roc
+
+#org @MOVE_NAME_PAYBACK
+Repr\esailles
+
+#org @MOVE_NAME_FIRE_FANG
+Crocs Feu
+
+#org @MOVE_NAME_ICE_FANG
+Crocs Givre
+
+#org @MOVE_NAME_THUNDER_FANG
+Crocs \Eclair
+
+#org @MOVE_NAME_FLARE_BLITZ
+Boutefeu
+
+#org @MOVE_NAME_INFERNO
+Feu d'Enfer
+
+#org @MOVE_NAME_HEX
+Ch\otiment
+
+#org @MOVE_NAME_DUAL_CHOP
+Double Baffe
+
+#org @MOVE_NAME_DOUBLE_HIT
+Coup Double
+
+#org @MOVE_NAME_COTTON_GUARD
+Cotogarde
+
+#org @MOVE_NAME_ACROBATICS
+Acrobatie
+
+#org @MOVE_NAME_FLAME_BURST
+Rebondifeu
+
+#org @MOVE_NAME_U_TURN
+Demi-Tour
+
+#org @MOVE_NAME_VOLT_SWITCH
+Change\Eclair
+
+#org @MOVE_NAME_DRAGON_TAIL
+Draco-Queue
+
+#org @MOVE_NAME_CIRCLE_THROW
+Projection
+
+#org @MOVE_NAME_MIRROR_SHOT
+Miroi-Tir
+
+#org @MOVE_NAME_WOOD_HAMMER
+Martobois
+
+#org @MOVE_NAME_HEAL_PULSE
+Vibra Soin
+
+#org @MOVE_NAME_FLASH_CANNON
+Luminocanon
+
+#org @MOVE_NAME_BUG_BITE
+Piq\ure
+
+#org @MOVE_NAME_PLUCK
+Picore
+
+#org @MOVE_NAME_SHELL_SMASH
+Exuviation
+
+#org @MOVE_NAME_RAGE_POWDER
+PoudreFureur
+
+#org @MOVE_NAME_WAKE_UP_SLAP
+R\eveil Forc\e
+
+#org @MOVE_NAME_RAZOR_SHELL
+Coqui-Lame
+
+#org @MOVE_NAME_COPYCAT
+Photocopie
+
+#org @MOVE_NAME_MIRACLE_EYE
+Oeil Miracle
+
+#org @MOVE_NAME_SUCKER_PUNCH
+Coup Bas
+
+#org @MOVE_NAME_SCALD
+\Ebullition
+
+#org @MOVE_NAME_BRINE
+Saumure
+
+#org @MOVE_NAME_FAIRY_WIND
+VentF\e\erique
+
+#org @MOVE_NAME_DOLL_EYES
+RegardTouch.
+
+#org @MOVE_NAME_PLAY_ROUGH
+C\olinerie
+
+#org @MOVE_NAME_MOONBLAST
+Pouv.Lunaire
+
+#org @MOVE_NAME_DRAIN_KISS
+Vampibaiser
+
+#org @MOVE_NAME_DAZZLE_GLEAM
+\Eclat Magiq.
+
+#org @MOVE_NAME_DISARM_CRY
+Voix enj\ml.
+
+#org @MOVE_NAME_STEALTH_ROCK
+Pi\rge de Roc
+
+#org @MOVE_NAME_TOXIC_SPIKES
+Pics Toxik
+
+#org @MOVE_NAME_HEALING_WISH
+V\yu Soin
+
+#org @MOVE_NAME_LUNAR_DANCE
+Danse Lune
+
+#org @MOVE_NAME_TAILWIND
+Vent Arri\rre
+
+#org @MOVE_NAME_BOOMBURST
+Bang Sonique
+
+#org @MOVE_NAME_INCINERATE
+Calcination
+
+#org @MOVE_NAME_WORRY_SEED
+Soucigraine
+
+#org @MOVE_NAME_GASTRO_ACID
+Suc Digestif
+
+#org @MOVE_NAME_GEOMANCY
+G\eo-Contr\mle
+
+#org @MOVE_NAME_FLOWER_GUARD
+GardeFlorale
+
+#org @MOVE_NAME_ROTOTILLER
+Fertilisat.
+
+#org @MOVE_NAME_SHIFT_GEAR
+Chgt Vitesse
+
+#org @MOVE_NAME_STICKY_WEB
+ToileGluante
+
+#org @MOVE_NAME_STORED_POWER
+Force Ajout.
+
+#org @MOVE_NAME_ACUPRESSURE
+Acupression
+
+#org @MOVE_NAME_PUNISHMENT
+Punition
+
+#org @MOVE_NAME_ASSURANCE
+Assurance
+
+#org @MOVE_NAME_DRAGON_RUSH
+Draco-Charge
+
+#org @MOVE_NAME_DARK_VOID
+Trou Noir
+
+#org @MOVE_NAME_FEINT
+Ruse
+
+#org @MOVE_NAME_PHANTOM_FORCE
+Hantise
+
+#org @MOVE_NAME_PETAL_STORM
+Temp\tteFlor.
+
+#org @MOVE_NAME_PLAY_NICE
+Camaraderie
+
+#org @MOVE_NAME_ROAR_OF_TIME
+Hurle-Temps
+
+#org @MOVE_NAME_SPACIAL_REND
+Spatio-Rift
+
+#org @MOVE_NAME_MAGMA_STORM
+Vortex Magma
+
+#org @MOVE_NAME_FINAL_GAMBIT
+Tout ou Rien
+
+#org @MOVE_NAME_SHADOW_FORCE
+Revenant
+
+#org @MOVE_NAME_NUZZLE
+Frotte-Frim.
+
+#org @MOVE_NAME_RETALIATE
+Vengeance
+
+#org @MOVE_NAME_METAL_BASH
+\Ecrous Poing
+
+#org @MOVE_NAME_JUDGMENT
+Jugement
+
+#org @MOVE_NAME_FREEZE_DRY
+Lyophilisat.
+
+#org @MOVE_NAME_PSYSHOCK
+Choc Psy
+
+#org @MOVE_NAME_ROUND
+Chant Canon
+
+#org @MOVE_NAME_TAIL_SLAP
+Plumo-Queue
+
+#org @MOVE_NAME_GEAR_GRIND
+Lanc\ecrou
+
+#org @MOVE_NAME_NATURAL_GIFT
+Don Naturel
+
+#org @MOVE_NAME_CHIP_AWAY
+Attrition
+
+#org @MOVE_NAME_SMACK_DOWN
+Anti-Air
+
+#org @MOVE_NAME_SPACE_HOLE
+TrouDimens.
+
+#org @MOVE_NAME_GYRO_BALL
+Gyroballe
+
+#org @MOVE_NAME_SPACE_FURY
+FurieDimens.
+
+#org @MOVE_NAME_ATTACK_ORDER
+Appel Attak
+
+#org @MOVE_NAME_DEFEND_ORDER
+Appel D\efens
+
+#org @MOVE_NAME_HEAL_ORDER
+Appel Soins
+
+#org @MOVE_NAME_CAPTIVATE
+S\eduction
+
+#org @MOVE_NAME_DEFOG
+Anti-Brume
+
+#org @MOVE_NAME_ORIGIN_PULSE
+Onde Origin
+
+#org @MOVE_NAME_CLIFF_BLADES
+Lame Pang\ee
+
+#org @MOVE_NAME_GUARD_SWAP
+Permugarde
+
+#org @MOVE_NAME_STEAM_PUMP
+Jet d'Vapeur
+
+#org @MOVE_NAME_METAL_BURST
+Fulmifer
+
+#org @MOVE_NAME_ME_FIRST
+Moi d'Abord
+
+#org @MOVE_NAME_POWER_SWAP
+Permuforce
+
+#org @MOVE_NAME_POWER_TRICK
+Astuce Force
+
+#org @MOVE_NAME_PSYCHO_SHIFT
+\Echange Psy
+
+#org @MOVE_NAME_WRING_OUT
+Essorage
+
+#org @MOVE_NAME_KINGS_SHIELD
+BouclierRoy.
+
+#org @MOVE_NAME_PSYSTRIKE
+Frappe Psy
+
+#org @MOVE_NAME_AUTOTOMIZE
+All\rgement
+
+#org @MOVE_NAME_DIAMOND_STORM
+Orage Adam.
+
+#org @MOVE_NAME_SLUDGE_WAVE
+Cradovague
+
+#org @MOVE_NAME_HEAVY_SLAM
+Tacle Lourd
+
+#org @MOVE_NAME_SYNCHRONOISE
+Synchropeine
+
+#org @MOVE_NAME_ELECTRO_BALL
+Boule \Elek
+
+#org @MOVE_NAME_FOUL_PLAY
+Tricherie
+
+#org @MOVE_NAME_ENTRAINMENT
+Ten-Danse
+
+#org @MOVE_NAME_NIGHT_DAZE
+Explonuit
+
+#org @MOVE_NAME_ECHOED_VOICE
+\Echo
+
+#org @MOVE_NAME_LAND'S_WRATH
+Force Chton.
+
+#org @MOVE_NAME_OBLIVIONWING
+Mort'Ailes
+
+#org @MOVE_NAME_HEART_SWAP
+Permuc\yur
+
+#org @MOVE_NAME_CRUSH_GRIP
+Presse
+
+#org @MOVE_NAME_SACRED_SWORD
+Lame Sainte
+
+#org @MOVE_NAME_HEAT_CRASH
+Tacle Feu
+
+#org @MOVE_NAME_HEAD_CHARGE
+Peign\ee
+
+#org @MOVE_NAME_TECHNO_BLAST
+TechnoBuster
+
+#org @MOVE_NAME_RELIC_SONG
+Chant Antik
+
+#org @MOVE_NAME_SECRET_SWORD
+Lame Ointe
+
+#org @MOVE_NAME_GLACIATE
+\Tre Glac.
+
+#org @MOVE_NAME_BOLT_STRIKE
+ChargFoudre
+
+#org @MOVE_NAME_BLUE_FLARE
+Flamme Bleue
+
+#org @MOVE_NAME_FREEZE_SHOCK
+\Eclair Gel\e
+
+#org @MOVE_NAME_ICE_BURN
+Feu Glac\e
+
+#org @MOVE_NAME_V_CREATE
+CoupVictoire
+
+#org @MOVE_NAME_FUSION_FLARE
+Flamme Croix
+
+#org @MOVE_NAME_FUSION_BOLT
+\Eclair Croix
+
+#org @MOVE_NAME_FELL_STINGER
+Dard Mortel
+
+#org @MOVE_NAME_NOBLE_ROAR
+R\ole M\ole
+
+#org @MOVE_NAME_DRAGON_RISE
+Dragon Rise
+
+#org @MOVE_NAME_PARTING_SHOT
+Dernier Mot
+
+#org @MOVE_NAME_TOPSY_TURVY
+Renversement
+
+#org @MOVE_NAME_CORE_ENFORCE
+SanctSupr\tme
+
+#org @MOVE_NAME_CHATTER
+Babil
+
+#org @MOVE_NAME_CONFIDE
+Confidence
+
+#org @MOVE_NAME_WATER_STAR
+Sheauriken
+
+#org @MOVE_NAME_MYSTIC_FIRE
+FeuEnsorcel\e
+
+#org @MOVE_NAME_SPIKY_SHIELD
+Pico-D\efense
+
+#org @MOVE_NAME_EERIEIMPULSE
+Onde \Etrange
+
+#org @MOVE_NAME_HOLD_BACK
+Retenue
+
+#org @MOVE_NAME_INFESTATION
+Harc\rlement
+
+#org @MOVE_NAME_POWER_UP_HIT
+Poing Boost
+
+#org @MOVE_NAME_1000_ARROWS
+Myria-Fl\rche
+
+#org @MOVE_NAME_1000_WAVES
+Myria-Vagues
+
+#org @MOVE_NAME_PARA_CHARGE
+Parabocharge
+
+#org @MOVE_NAME_SEARING_SHOT
+Incendie
+
+#org @MOVE_NAME_SEED_FLARE
+Fulmigraine
+
+#org @MOVE_NAME_ACCELEROCK
+Vif Roc
+
+#org @MOVE_NAME_ANCHOR_SHOT
+Ancrage
+
+#org @MOVE_NAME_AURORA_VEIL
+Voile Aurore
+
+#org @MOVE_NAME_BANEFUL_BUNK
+Blockhaus
+
+#org @MOVE_NAME_BEAK_BLAST
+Bec-Canon
+
+#org @MOVE_NAME_BRUTAL_SWING
+Centrifugif.
+
+#org @MOVE_NAME_BURN_UP
+FlammeUltime
+
+#org @MOVE_NAME_CLANG_SCALES
+Vibr\ecaille
+
+#org @MOVE_NAME_DARK_LARIAT
+Dark Lariat
+
+#org @MOVE_NAME_DRACO_HAMMER
+DracoMarteau
+
+#org @MOVE_NAME_FIRE_LASH
+Fouet de Feu
+
+#org @MOVE_NAME_FIRST_PRESS
+Escarmouche
+
+#org @MOVE_NAME_FLEUR_CANNON
+Canon Floral
+
+#org @MOVE_NAME_FLORAL_HEAL
+Soin Floral
+
+#org @MOVE_NAME_GEAR_UP
+Engrenage
+
+#org @MOVE_NAME_HORSEPOWER
+Caval.Lourde
+
+#org @MOVE_NAME_ICE_HAMMER
+MarteauGlace
+
+#org @MOVE_NAME_LASER_FOCUS
+Affilage
+
+#org @MOVE_NAME_LEAFAGE
+Feuillage
+
+#org @MOVE_NAME_LIQUIDATION
+Aqua-Br\rche
+
+#org @MOVE_NAME_LUNGE
+Furie-Bond
+
+#org @MOVE_NAME_GEIST_BEAM
+Rayon Spect.
+
+#org @MOVE_NAME_MULTI_ATTACK
+C.Varia-Type
+
+#org @MOVE_NAME_NATURE'S_MAD
+Ire Naturel
+
+#org @MOVE_NAME_POLLEN_PUFF
+Boule Pollen
+
+#org @MOVE_NAME_POWER_TRIP
+Arrogance
+
+#org @MOVE_NAME_PRISM_LASER
+Laser Prisme
+
+#org @MOVE_NAME_PSYCHIC_FANG
+Psycho-Croc
+
+#org @MOVE_NAME_PURIFY
+Purification
+
+#org @MOVE_NAME_REVEL_DANCE
+Danse \Eveil
+
+#org @MOVE_NAME_SHADOW_BONE
+Os Ombre
+
+#org @MOVE_NAME_SHELL_TRAP
+Carapi\rge
+
+#org @MOVE_NAME_SHORE_UP
+Amass'Sable
+
+#org @MOVE_NAME_SMART_STRIKE
+Estocorne
+
+#org @MOVE_NAME_SOLAR_BLADE
+Lame Solaire
+
+#org @MOVE_NAME_SPARKLE_ARIA
+Aria d'\Ecume
+
+#org @MOVE_NAME_SPECT_THIEF
+Clepto-M\ones
+
+#org @MOVE_NAME_SPEED_SWAP
+Permuvitesse
+
+#org @MOVE_NAME_SPIRIT_LOCK
+Tisse Ombre
+
+#org @MOVE_NAME_SPOTLIGHT
+Projecteur
+
+#org @MOVE_NAME_BAD_TANTRUM
+Tr\epignement
+
+#org @MOVE_NAME_STRENGTH_SAP
+Vole-Force
+
+#org @MOVE_NAME_SUNSTEEL_RAM
+Choc M\et\eore
+
+#org @MOVE_NAME_TEARY_LOOK
+Cape Sanglot
+
+#org @MOVE_NAME_THROAT_CHOP
+Ex\ecu-Son
+
+#org @MOVE_NAME_TOXIC_THREAD
+Fil Toxique
+
+#org @MOVE_NAME_TROP_KICK
+Botte Sucre
+
+#org @MOVE_NAME_ZING_ZAP
+\Electrikipik
+
+#org @MOVE_NAME_ELEC_TERRAIN
+Cr\ea-\elec
+
+#org @MOVE_NAME_GRAS_TERRAIN
+Cr\ea-Herbe
+
+#org @MOVE_NAME_MIST_TERRAIN
+Cr\ea-Brume
+
+#org @MOVE_NAME_PSYC_TERRAIN
+Cr\ea-Psy
+
+#org @MOVE_NAME_GRASS_PLEDGE
+Aire d'Herbe
+
+#org @MOVE_NAME_FIRE_PLEDGE
+Aire de Feu
+
+#org @MOVE_NAME_WATER_PLEDGE
+Aire d'Eau
+
+#org @MOVE_NAME_TRICK_ROOM
+Distorsion
+
+#org @MOVE_NAME_MAGIC_ROOM
+Zone Magique
+
+#org @MOVE_NAME_WONDER_ROOM
+Zone \Etrange
+
+#org @MOVE_NAME_CRAFTY_GUARD
+Vigilance
+
+#org @MOVE_NAME_MAT_BLOCK
+Tatamigaeshi
+
+#org @MOVE_NAME_QUICK_GUARD
+Pr\evention
+
+#org @MOVE_NAME_WIDE_GUARD
+Garde Large
+
+#org @MOVE_NAME_AQUA_RING
+Anneau Hydro
+
+#org @MOVE_NAME_AROMA_MIST
+Brume Capit.
+
+#org @MOVE_NAME_BELCH
+\Eructation
+
+#org @MOVE_NAME_BESTOW
+Passe-Cadeau
+
+#org @MOVE_NAME_FLING
+D\egommage
+
+#org @MOVE_NAME_FLYING_PRESS
+Flying Press
+
+#org @MOVE_NAME_GRAVITY
+Gravit\e
+
+#org @MOVE_NAME_GUARD_SPLIT
+PartageGarde
+
+#org @MOVE_NAME_HEAL_BLOCK
+Anti-Soin
+
+#org @MOVE_NAME_ION_DELUGE
+D\elugePlasm.
+
+#org @MOVE_NAME_LUCKY_CHANT
+Air Veinard
+
+#org @MOVE_NAME_MAGNET_RISE
+Vol Magn\etik
+
+#org @MOVE_NAME_MAGNET_FLUX
+Magn\eControl
+
+#org @MOVE_NAME_POWDER
+Nu\ee-Poudre
+
+#org @MOVE_NAME_POWER_SPLIT
+PartageForce
+
+#org @MOVE_NAME_REFLECT_TYPE
+Copie-Type
+
+#org @MOVE_NAME_SIMPLE_BEAM
+Rayon Simple
+
+#org @MOVE_NAME_SOAK
+D\etrempage
+
+#org @MOVE_NAME_TELEKINESIS
+L\evikin\esie
+
+#org @MOVE_NAME_TRICKOTREAT
+Halloween
+
+#org @MOVE_NAME_VENOM_DRENCH
+Pi\rge-Venin
+
+#org @MOVE_NAME_WOODS_CURSE
+Mal. Sylvain
+
+#org @MOVE_NAME_MIND_BLOWN
+CabochKaboum
+
+#org @MOVE_NAME_PHOTONGEYSER
+Photo-Geyser
+
+#org @MOVE_NAME_PLASMA_FISTS
+Plasma Punch
+
+#org @MOVE_NAME_ELECTRIFY
+\Electrisat.
+
+#org @MOVE_NAME_EMBARGO
+Embargo
+
+#org @MOVE_NAME_FAIRY_LOCK
+VerrEnchant\e
+
+#org @MOVE_NAME_LIGHT_O_RUIN
+Lumi\rreN\eant
+
+#org @MOVE_NAME_TRUMP_CARD
+Atout
+
+#org @MOVE_NAME_AFTER_YOU
+Apr\rs Vous
+
+#org @MOVE_NAME_INSTRUCT
+Sommation
+
+#org @MOVE_NAME_QUASH
+\A la Queue
+
+#org @MOVE_NAME_HAPPY_HOUR
+\Etrennes
+
+#org @MOVE_NAME_DOUBLE_IRON
+\Ecrous Poing
+
+#org @MOVE_NAME_LAST_RESORT
+Dern.Recours
+
+#org @MOVE_NAME_SKY_DROP
+Chute Libre
+
+#org @MOVE_NAME_CELEBRATE
+C\el\ebration
+
+#org @MOVE_NAME_HOLD_HANDS
+MainsJointes
+
+#org @MOVE_NAME_DYNAMAX_CANNON
+Canon DyMax
+
+#org @MOVE_NAME_SNIPE_SHOT
+Tir Pr\ecis
+
+#org @MOVE_NAME_JAW_LOCK
+Croque Fort
+
+#org @MOVE_NAME_STUFF_CHEEKS
+Garde-\a-Joue
+
+#org @MOVE_NAME_NO_RETREAT
+UltimBastion
+
+#org @MOVE_NAME_TAR_SHOT
+Goudronnage
+
+#org @MOVE_NAME_MAGIC_POWDER
+Poudre Magik
+
+#org @MOVE_NAME_DRAGON_DARTS
+Draco-Fl\rche
+
+#org @MOVE_NAME_TEATIME
+Th\er\emonie
+
+#org @MOVE_NAME_OCTOLOCK
+Octoprise
+
+#org @MOVE_NAME_BOLT_BEAK
+Prise de Bec
+
+#org @MOVE_NAME_FISHIOUS_REND
+Branchicrok
+
+#org @MOVE_NAME_COURT_CHANGE
+Change-C\mt\e
+
+#org @MOVE_NAME_CLANGOROUS_SOUL
+Dracophonie
+
+#org @MOVE_NAME_BODY_PRESS
+Big Splash
+
+#org @MOVE_NAME_DECORATE
+Nappage
+
+#org @MOVE_NAME_DRUM_BEATING
+TambourBatt.
+
+#org @MOVE_NAME_SNAP_TRAP
+Troquenard
+
+#org @MOVE_NAME_PYRO_BALL
+Ballon Br\ul.
+
+#org @MOVE_NAME_BEHEMOTH_BLADE
+Glad. Max.
+
+#org @MOVE_NAME_BEHEMOTH_BASH
+Aegis Maxima
+
+#org @MOVE_NAME_AURA_WHEEL
+Roue Libre
+
+#org @MOVE_NAME_BREAKING_SWIPE
+Abattage
+
+#org @MOVE_NAME_BRANCH_POKE
+Tapotige
+
+#org @MOVE_NAME_OVERDRIVE
+Overdrive
+
+#org @MOVE_NAME_APPLE_ACID
+Acide Malik
+
+#org @MOVE_NAME_GRAV_APPLE
+Force G
+
+#org @MOVE_NAME_SPIRIT_BREAK
+Choc \Emotion
+
+#org @MOVE_NAME_STRANGE_STEAM
+VapeurF\e\erik
+
+#org @MOVE_NAME_LIFE_DEW
+Fontaine-Vie
+
+#org @MOVE_NAME_OBSTRUCT
+Blocage
+
+#org @MOVE_NAME_FALSE_SURRENDER
+Fourbette
+
+#org @MOVE_NAME_METEOR_ASSAULT
+JouteAstrale
+
+#org @MOVE_NAME_ETERNABEAM
+Laser Infmax
+
+#org @MOVE_NAME_STEEL_BEAM
+M\etalaser
+
+#org @MOVE_NAME_EXPANDING_FORCE
+Vaste Pouv.
+
+#org @MOVE_NAME_STEEL_ROLLER
+M\etalliroue
+
+#org @MOVE_NAME_SCALE_SHOT
+Rafa\Ecailles
+
+#org @MOVE_NAME_METEOR_BEAM
+LaserM\et\eore
+
+#org @MOVE_NAME_SHELL_SIDE_ARM
+Kokiyarme
+
+#org @MOVE_NAME_MISTY_EXPLOSION
+Explo-Brume
+
+#org @MOVE_NAME_GRASSY_GLIDE
+Gliss'Herbe
+
+#org @MOVE_NAME_RISING_VOLTAGE
+MonteTension
+
+#org @MOVE_NAME_TERRAIN_PULSE
+Champlificat
+
+#org @MOVE_NAME_SKITTER_SMACK
+Rvge Rampant
+
+#org @MOVE_NAME_BURNING_JEALOUSY
+Feu Envieux
+
+#org @MOVE_NAME_LASH_OUT
+CentRancunes
+
+#org @MOVE_NAME_POLTERGEIST
+EsprFrappeur
+
+#org @MOVE_NAME_CORROSIVE_GAS
+Gaz Corrosif
+
+#org @MOVE_NAME_COACHING
+Coaching
+
+#org @MOVE_NAME_FLIP_TURN
+Eau Revoir
+
+#org @MOVE_NAME_TRIPLE_AXEL
+Triple Axel
+
+#org @MOVE_NAME_DUAL_WINGBEAT
+Double Vol\ee
+
+#org @MOVE_NAME_SCORCHING_SANDS
+Sable Ardent
+
+#org @MOVE_NAME_JUNGLE_HEALING
+Selve Salvat
+
+#org @MOVE_NAME_WICKED_BLOW
+Poing Obscur
+
+#org @MOVE_NAME_SURGING_STRIKES
+TorrentCoups
+
+#org @MOVE_NAME_FREEZING_GLARE
+Regard Glac.
+
+#org @MOVE_NAME_THUNDEROUS_KICK
+C. Fulgurant
+
+#org @MOVE_NAME_FIERY_WRATH
+Fur. Ardente
+
+#org @MOVE_NAME_THUNDER_CAGE
+Voltage\mle
+
+#org @MOVE_NAME_DRAGON_ENERGY
+Draco\Energie
